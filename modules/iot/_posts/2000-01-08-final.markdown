@@ -1,5 +1,5 @@
 ---
-title: Introducción
+title: Documentación
 ---
 
 ## Esta sección esta en construcción, pronto tendrás mas información referente al internet de las cosas.
