@@ -3,16 +3,17 @@ title: Maquina de pinball
 ---
 
 ## Maquina de pinball
+Las maquinas de pinball fueron extremadamente populares en los años 70, es un juego de salón a base de una bola impulsada inicialmente por un resorte que hace que la bola entre en un tablero con diversos componentes, cuyo contacto de la bola con estos componentes otorgan al usuario cierta puntuación, la bola va cayendo por gravedad hasta el punto mas bajo del tablero donde se encuentran las paletas o flippers que controla el usuario para volver a impulsar la bola.
 
-These are some links that will help you with setting up a course using the template:
+En este proyecto realizaremos nuestra propia máquina de pinball para retar a nuestros amigos a conseguir la mayor puntuación posible.
 
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
+#Sesión 01 Análisis
+## Objetivo
+Cada estudiante seleccionará el tipo de tablero que desea para su máquina de pinball.
+## Recomendaciones
++ Pueden realizar una lluvia de ideas donde cada estudiante aporte un componente u obstáculo para el tablero.
++ Investigar con respecto a máquinas de pinball les ayudará a tener ideas más claras que puedan aportar a la lluvia de ideas.
++ Pueden revisar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares para visualizar el alcance del proyecto.
 
-## Intermediate
-
-## Advanced
-
-Here are some links for you if you are planning to customize the provided course template:
-
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
+## Actividades
++ 
