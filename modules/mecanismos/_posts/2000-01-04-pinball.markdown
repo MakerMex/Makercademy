@@ -1,19 +1,76 @@
 ---
-title: Maquina de pinball
+title: Máquina de pinball
 ---
 
-## Maquina de pinball
-Las maquinas de pinball fueron extremadamente populares en los años 70, es un juego de salón a base de una bola impulsada inicialmente por un resorte que hace que la bola entre en un tablero con diversos componentes, cuyo contacto de la bola con estos componentes otorgan al usuario cierta puntuación, la bola va cayendo por gravedad hasta el punto mas bajo del tablero donde se encuentran las paletas o flippers que controla el usuario para volver a impulsar la bola.
+# Máquina de pinball
+Las máquinas de pinball fueron extremadamente populares en los años 70, es un juego de salón a base de una bola impulsada inicialmente por un resorte que hace que la bola entre en un tablero con diversos componentes, cuyo contacto de la bola con estos componentes otorgan al usuario cierta puntuación, la bola va cayendo por gravedad hasta el punto mas bajo del tablero donde se encuentran las paletas o flippers que controla el usuario para volver a impulsar la bola.
 
 En este proyecto realizaremos nuestra propia máquina de pinball para retar a nuestros amigos a conseguir la mayor puntuación posible.
 
-#Sesión 01 Análisis
-## Objetivo
-Cada estudiante seleccionará el tipo de tablero que desea para su máquina de pinball.
-## Recomendaciones
+# Sesión 01 Análisis
+### Objetivo
+Cada estudiante seleccionará el tipo de tablero que desea para su máquina de pinball, generando una propuesta de mejora para hacer mas atractiva la maquina.
+### Recomendaciones
 + Pueden realizar una lluvia de ideas donde cada estudiante aporte un componente u obstáculo para el tablero.
 + Investigar con respecto a máquinas de pinball les ayudará a tener ideas más claras que puedan aportar a la lluvia de ideas.
 + Pueden revisar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares para visualizar el alcance del proyecto.
 
-## Actividades
+### Actividades
++ Cada estudiante realizará el boceto de su tablero, definiendo las dimensiones de su máquina.
++ Con base en su boceto, determinarán la cantidad de obstáculos que tendrá su máquina.
++ Definir la mejora que proponen para el proyecto.
+
+### Referencias
++ [Proyectos de referencia](http://learn.makercademy.com/modules/referencias/Proyectos/)
++ [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/)
++ [Historia de la máquina de pinball](https://es.wikipedia.org/wiki/Pinball)
++ [Pinball de cartón](https://www.youtube.com/watch?v=NtTwnN6tcJU)
+
+# Sesión 02 Prototipado
+Hasta el momento ya investigamos más a fondo el funcionamiento de las máquinas de pinball, su uso, como funcionan y los mecanismos que necesitaremos para construir nuestra propia máquina de pinball. Con base en los bocetos que desarrollamos la sesión pasada, realizaremos el primer prototipo de nuestro proyecto, con esto podremos observar si el mecanismo propuesto funciona osi es necesario realizar modificaciones.
+
+### Objetivo
++ Construir su primer protoipo.
++ Establecer los mecanismos para lanzar la bola y mover los controles.
++ Definir los obstáculos y mecanismos para ganar puntos.
+
+### Recomendaciones
++ Establece objetivos alcanzables como lograr propulsar la bola al inicio y controlar el movimiento de las paletas. 
++ Enfócate en construir tu primer prototipo funcional.
++ Recuerda que la iteración es lo más importante, si algo no funciona, investiga e intentalo nuevamente.
++ Siempre hay varias formas de lograr el objetivo del proyecto, usa la que mejor se adapte a tu proyecto.
+
+### ¡Manos a la obra!
+
+### Actividades
++ Con base en sus bocetos, cada alumno deberá realizar el primer prototipo funcional de su pinball donde controlen el lanzamiento de la bola y el movimiento de las paletas.
++ Cada estudiante realizará una breve demostración de su proyecto, mencionando como funcionan los mecanismos de control empleados.
++ Realizar la descripción del proyecto con base en las preguntas ubicadas en las guías de trabajo.
+
+### Referencias
++ [Maquina de pinball desde cero](https://www.youtube.com/watch?v=ih72s28W-mg&list=PLwgLGxqgWz6ApRQI90XvocVeNMb4eaDIq&pbjreload=10)
++ [Pinball con cartón y ligas](https://www.youtube.com/watch?v=bfXYEKSpJqI)
++ [Pinball casero](https://www.youtube.com/watch?v=yjPYhbXLToo)
+
+
+# Sesión 03 Programación
+Hasta ahora el mecanismo de nuestro pinball ya funciona, podemos propulsar de manera manual la bola dentro de nuestro tablero, asi como controlar las paletas, llego el momento de integrarle sensores y actuadores para automatizarla.
+
+### Objetivo
++ Realizar la programación necesaria para utilizar sensores, actuadores y contadores en su proyecto.
+
+
+### Recomendaciones 
++ Para componentes nuevos no olvides buscar mas información de como utilizarlos, así como la en la sección de [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/).
++ Recuerda utilizar la extensón para tu crickit.
++ Si tienes alguna duda no olvides que puedes preguntar en el [foro](http://makermex.com/forum/makercademy-124)
+
+### Actividades
++ Programar un contador para las vidas disponibles en el juego.
++ Programar un contador de puntos que pueda sumar o restar puntos acorde a lo que suceda en el tablero.
++ Programar el actuador que impulse la bola de inicio.
+
+### Referencias
++ [Contador con circuit playground express](https://learn.adafruit.com/perfect-pitch-machine/tracking-button-presses-with-a-counter)
++ [Corredera de cartón](https://learn.adafruit.com/cardboard-slider-crank)
 + 
