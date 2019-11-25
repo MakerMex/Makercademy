@@ -97,7 +97,7 @@ Nuestra máquina de pinball fue rediseñada y mejorada, tomamos la retroalimenta
 + Cada alumno realizará una breve demostración de como funciona su pinball, explicando el mecanismo y los bloques de programación utilizados para su funcionamiento.
 + La clase realizará una retroalimentación a cada uno de sus compañeros, brindando consejos y/o sugerencias de mejora.
 
-#Sesión 06 Documentación 
+# Sesión 06 Documentación 
 El proceso de fabricación del pinball complementa un sin fín de aprendizajes tanto de manufactura como de programación y manejo de componentes, es por esto que la parte de documentación es muy importante, las siguientes preguntas son solo algunas de las cuales nos ayudarán a poner en claro todo lo desarrollado.
 + ¿Qué hicimos?
 + ¿Cómo lo hicimos?
