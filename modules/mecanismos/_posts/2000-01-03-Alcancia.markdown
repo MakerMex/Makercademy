@@ -65,7 +65,7 @@ Ahora que nuestro primer prototipo funciono, llego el momento de realizar la pro
 + Programar el sensor que accione tu alcancía.
 + Programar el mecanismo interno de tu alcancía.
 
-# # # Referencias
+### Referencias
 [Control de motores por I/O digitales](https://learn.adafruit.com/universal-marionette-with-crickit)
 [Motor DC y servomotor](https://learn.adafruit.com/make-it-bubble)
 ### Sesión 04 Manufactura
