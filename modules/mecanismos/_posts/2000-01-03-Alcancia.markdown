@@ -53,3 +53,48 @@ Ahora que ya decidimos como será nuestra alcancía y el autómata con base en l
 
 [Corte de caja de madera](https://www.youtube.com/watch?v=TcLUj-DdMJg)
 
+### Sesión 03 Programación 
+Ahora que nuestro primer prototipo funciono, llego el momento de realizar la programación necesaria para automatizarla, debemos tomar en cuenta el metodo de activación de la alcancía y la acción que realizará una vez que se active.
+### Objetivo
++ Realizar la programación de su alcancía controlando al menos un sensor de activación y un actuador de respuesta.
+### Recomendaciones 
++ Recuerda investigar como utilizar tus nuevos componentes ante de conectarlos a tu crickit.
++ Utiliza la extensión crickit en MakeCode para facilitar el proceso de programación.
++ Divide tu avance por secciones, primero controla el sensor y despues el actuador.
+### Actividades
++ Programar el sensor que accione tu alcancía.
++ Programar el mecanismo interno de tu alcancía.
+
+# # # Referencias
+[Control de motores por I/O digitales](https://learn.adafruit.com/universal-marionette-with-crickit)
+[Motor DC y servomotor](https://learn.adafruit.com/make-it-bubble)
+### Sesión 04 Manufactura
+Hasta el momento hemos realizado nuestro primer prototipo en el cual observamos el funcionamiento del mecanismo seleccionado, todo esto nos ayudaría a mejorarlo y que funcione aun mejor en el prototipo final, así mismo desarrollamos el algoritmo de programación para que nuestro proyecto funcione de forma automatizada, llego la hora de incorporarlos en nuestro prototipo final y que funcione acorde a lo esperado.
+### Objetivo 
+
+* Obtener el prototipo final de la alcancía.
+### Manos a la obra
+Con base en nuestro primer prototipo, llego el momento de unir todas las piezas y darle vida a nuestra alcancía, para esto, utilizaremos manufactura digital como impresión 3D y/o corte láser para mejorar partes de nuestro proyecto, además de incluir el control por medio de nuestra tarjeta.
+### Recomendciones 
++ Si algun mecanismo de tu primer prototipo no funciona de manera correcta, busca como recuperarlo o reemplazarlo.
++ Utiliza tecnicas de manufactura digital para prototipado rapido.
++ No olvides tu equipo de seguridad al utilizar maquinaria.
+### Referencias
+[Robot traga monedas](https://www.youtube.com/watch?v=GDdFLBP3Uhk)
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+[Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+# Sesión 05 Pruebas y funcionamiento
+Llegó el momento de la verdad al poner a prueba el funcionamiento de nuestra alcancía, a estas alturas del proyecto ya debemos tener integrado nuestro mecanismo con la programación desarrollada en nuestra tarjeta.
+### Actividades
++ Cada alumno realizará una breve presentación donde muestre el funcionamiento de su alcancía, así como una descripción del algoritmo programado en su proyecto.
++ La clase brindará una retroalimentación a sus compañeros en partes de mejora de su proyecto.
+# Sesión 06 Documentación 
+Una vez presentado nuestro proyecto ante la clase, llego el momento de recopilar todo lo aprendido en el desarrollo de este proyecto, para esto realizaremos la documentación del proyecto.
+### Actividades
++ Realizar el guión para el video de documentación.
++ Cada estudiante realizará un video de maximo 5 minutos de duración en el cual explique el funcionamiento de su proyecto, asi como el proceso de fabricación realizado, bocetos, prototipos, algoritmos de programación y pruebas, demostrando comprensión del tema, asi como los conocimientos adquiridos durante el desarrollo de este proyecto.
+
+# Referencias 
+[Documentación](http://learn.makercademy.com/modules/intro/documentacion/)
+
