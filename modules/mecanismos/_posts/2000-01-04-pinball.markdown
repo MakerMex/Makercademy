@@ -73,4 +73,55 @@ Hasta ahora el mecanismo de nuestro pinball ya funciona, podemos propulsar de ma
 ### Referencias
 + [Contador con circuit playground express](https://learn.adafruit.com/perfect-pitch-machine/tracking-button-presses-with-a-counter)
 + [Corredera de cartón](https://learn.adafruit.com/cardboard-slider-crank)
-+ 
+
+# Sesión 04 Manufactura
+Estamos listos para generar el prototipo final de nuestro pinball, hasta el momento hemos revisado el mecanismo de funcionamiento y la lógica de programación, llego el momento de hacer que trabajen en conjunto y ver los resultados en nuestro pinball.
+### Objetivo 
++ Obtener el prototipo final de la máquina de pinball.
+
+### Manos a la obra
+Tomando como base nuestro primer prototipo, llego el momento de hacer el cambio de piezas temporales por piezas finales, para esto, realizaremos el diseño de nuestras piezas para poder imprimirlas en 3D y/o cortarlas a láser.
+### Recomendaciones
++ Cuando utilices maquinaria, no olvides el equipo de seguridad.
++ Nuestro proyecto esta en constante crecimiento, siempre puede mejorar.
++ Si llegas a tener dificultades investiga un poco mas en la sección de referencias y/o en el foro.
+
+### Referencias
+[Caja con uniones](https://www.youtube.com/watch?v=TcLUj-DdMJg)
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+# Sesión 05 Pruebas y funcionamiento
+Nuestra máquina de pinball fue rediseñada y mejorada, tomamos la retroalimentación de nuestro primer prototipo y desarrollamos un prototipo final funcional, llego el momento de poner a prueba nuestro pinball en clase y escuchar las opiniones de nuestros compañeros, con esto poder continuar el proceso de mejora continua.
+
+### Actividades
++ Cada alumno realizará una breve demostración de como funciona su pinball, explicando el mecanismo y los bloques de programación utilizados para su funcionamiento.
++ La clase realizará una retroalimentación a cada uno de sus compañeros, brindando consejos y/o sugerencias de mejora.
+
+#Sesión 06 Documentación 
+El proceso de fabricación del pinball complementa un sin fín de aprendizajes tanto de manufactura como de programación y manejo de componentes, es por esto que la parte de documentación es muy importante, las siguientes preguntas son solo algunas de las cuales nos ayudarán a poner en claro todo lo desarrollado.
++ ¿Qué hicimos?
++ ¿Cómo lo hicimos?
++ ¿Qué ploblemática resolvimos?
++ ¿Cúal fue la mejora que implementamos?
++ ¿Qué aprendizaje tuve al desarrollar el proyecto?
++ ¿Qué podría mejorar de mi proyecto?
+
+Con esto tendremos mas información de nuestro proyecto y el proceso de documentación será mas sencillo.
+### Actividades
++ Cada estudiante realizará el guión que utilizará para su video.
++ Cada estudiante deberá realizar un video de máximo 5 minutos y mínimo 3 explicando todo lo relacionado al proyecto, desde los bocetos realizados, programación y demostración del prototipo final funcionando.
++ El video deberá estar disponible en YouTube.
+
+Recomendaciones 
++ Busca ayuda de tus compañeros o un tripode para obtener mejores resultados en tus grabaciones.
++ Si en tu escuela tienes clase de medios trata de enlazar tu sección de documentación con esa materia.
++ Se tu mismo, tu eres el experto en tu proyecto, su funcionamiento y como esta construido, ¡comparte con el mundo todo ese aprendizaje!.
+
+Referencias
++ [Como realizar la documentación de un proyecto](https://www.youtube.com/watch?v=Jf59UkRCqaY)
+
+
+
+
+
+
