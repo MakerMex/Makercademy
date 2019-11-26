@@ -4,3 +4,26 @@ title: Vehículo terrestre
 
 ## Vehículo terrestre
 
+![Vehiculo]({{site.baseurl}}/img/vehiculo.jpg)
+Desde hace varios años, los [vehiculos de juguete](https://es.wikipedia.org/wiki/Hot_Wheels) han estado en nuestras vidas de forma muy cotidiana, siendo una escala de los automóviles que usamos a diario para transportarnos, en este proyecto realizaremos nuestro propio diseño de un vehículo terrestre capaz de moverse de forma autonoma y poder competir con los vehículos de nuestros compañeros.
+# Sesión 01 Análisis
+### Objetivo 
++ Identificar las variables que involucran su proyecto.
++ Proponer diseños para su vehículo.
++ Elegir la estrategia de fabricación.
+### Recomendaciones 
++ Para introducir a los estudiantes al proyecto es posible realizar una lluvia de ideas donde todos los estudiantes aporten al proyecto.
++ El boceto será la primera iteración del proyecto, plasma una idea alcanzable.
+### Actividades 
++ Cada estudiante realizará una propuesta para el desarrollo de su proyecto.
++ Cada estudiante realizará el boceto de su vehículo.
+### Referencias
+[Vehículo terrestre](https://learn.adafruit.com/circuitpython-ble-crickit-rover)
+# Sesión 02 Prototipado
+En la sesión pasada tuvimos tiempo de visualizar el desarrollo de nuestro vehículo, lo que usaremos y como lo desarrollaremos, llego el momento de materializar estas ideas y construir nuestro primer prototipo.
+# Objetivo 
++ Construir el primer prototipo.
++ Revisar los puntos de mejora del primer prototipo.
++ Hacer una propuesta de mejora del prototipo.
+### Recomendaciones
++ El objetivo de la sesión es obtener un prototipo funcional.
