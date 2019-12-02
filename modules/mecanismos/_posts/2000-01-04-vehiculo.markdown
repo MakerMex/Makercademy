@@ -4,8 +4,9 @@ title: Vehículo terrestre
 
 ## Vehículo terrestre
 
-![Vehiculo]({{site.baseurl}}/img/vehiculo.jpg)
+
 Desde hace varios años, los [vehiculos de juguete](https://es.wikipedia.org/wiki/Hot_Wheels) han estado en nuestras vidas de forma muy cotidiana, siendo una escala de los automóviles que usamos a diario para transportarnos, en este proyecto realizaremos nuestro propio diseño de un vehículo terrestre capaz de moverse de forma autonoma y poder competir con los vehículos de nuestros compañeros.
+![Vehiculo]({{site.baseurl}}/img/vehiculo.jpg)
 # Sesión 01 Análisis
 ### Objetivo 
 + Identificar las variables que involucran su proyecto.
@@ -22,8 +23,33 @@ Desde hace varios años, los [vehiculos de juguete](https://es.wikipedia.org/wik
 # Sesión 02 Prototipado
 En la sesión pasada tuvimos tiempo de visualizar el desarrollo de nuestro vehículo, lo que usaremos y como lo desarrollaremos, llego el momento de materializar estas ideas y construir nuestro primer prototipo.
 # Objetivo 
+Fabricar el primer prototipo funcional.
+### Recomendaciones
++ El objetivo de la sesión es obtener un prototipo funcional.
++ Utiliza todo tipo de materiales.
++ Establece tus actividades y ve registrando los avances.
+### Actividades
 + Construir el primer prototipo.
 + Revisar los puntos de mejora del primer prototipo.
 + Hacer una propuesta de mejora del prototipo.
+
+### Referencias
+[Pines I/O](https://learn.adafruit.com/adafruit-circuit-playground-express/pinouts)
+[Vehículo F1 de cartón](https://www.youtube.com/watch?v=1HHFpzFOfko&t=10s)
+
+# Sesión 03 Programación
+En la sesión pasada fabricamos nuestro primer prototipo funcional del vehículo, con esto nos dimos cuenta de las partes que podemos mejorar en nuestro proyecto, todas estas mejoras hay que tomarlas un cuenta en la programación.
+
+### Objetivo
+Desarrollar la programación de su vehículo.
+
 ### Recomendaciones
-+ El objetivo de la sesión es obtener un prototipo funcional.
++ Toma en cuenta los alcances esperados de tu proyecto, con base en eso realiza tu programación.
++ Al utilizar componentes nuevos, no olvides investigar más sobre su forma de conexión y/o programación.
++ Si tienes alguna duda, no dudes en hacer una pregunta en el [foro](http://makermex.com/forum/makercademy-124)
+### Actividades
++ Realizar la programación de su proyecto.
+### Referencias
+[flippy robot](https://learn.adafruit.com/crickit-flippy-robot)
+[PWM en circuit Python](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-pwm)
+# Sesión 04 Manufactura
