@@ -53,3 +53,41 @@ Desarrollar la programación de su vehículo.
 [flippy robot](https://learn.adafruit.com/crickit-flippy-robot)
 [PWM en circuit Python](https://learn.adafruit.com/adafruit-circuit-playground-express/circuitpython-pwm)
 # Sesión 04 Manufactura
+Ya tienes bien establecidos los puntos de mejora de tu prototipo, llego el momento de fabricar tu prototipo final, utilicemos procesos de fabricación mas avanzados, puede ser impresión 3D, corte con láser y/o router CNC.
+### Objetivo
+Refabricar su primer prototipo con partes realizadas con manufactura digital.
+### Recomendaciones
++ No olvides utilizar equipo de seguridad cuando utilices maquinaria.
++ Revisa tus modelados antes de fabricarlos.
++ Optimiza tus tiempos para avanzar con buen ritmo en tu proyecto.
+
+### Actividades
++ Actualiza piezas de tu prototipo por partes impresas y/o cortadas con láser.
++ Fabrica tu prototipo final.
+### Referencias
+[WobblyBot](https://learn.adafruit.com/crickit-wobblybot)
+
+# Sesión 05 Pruebas de funcionamiento
+Casi hemos terminado, nuestro prototipo está terminado, pongamos a prueba todas las secuencias que programamos en nuestro vehículo antes de nuestra presentación final.
+### Recomendaciones 
++ Pide ayuda a tus compañeros para que intercambien proyectos y entre ustedes prueben el funcionamiento de sus proyectos.
++ Si ves que algo del proyecto de tu compañero no funciona de manera correcta, brinda tu apoyo para soluionarlo.
+### Actividades
++ Los alumnos intercambiaran proyecto con alguno de sus compañeros para realizar las pruebas de funcionamiento.
++ Los estudiantes se brindarán una retroalimentación acorde a las pruebas que realizaron de los proyectos de sus compañeros.
+
+# Sesión 06 Documentación 
+Nuestro proyecto esta listo, ya realizamos las pruebas finales y llego el momento de que nuestros compañeros y el mundo vea a detalle como fue que lo fabricamos, utilizando el material que fuimos recopilando en el transcurso del proyecto, fotos, videos y capturas de nuestra programación, todo esto lo usaremos para realizar nuestra documentación.
+
+### Recomendaciones
++ Recopila toda la información del proyecto y separalá por sesiones.
++ Para tu video realiza un guión que te permita tener claro el contenido del que hablaras.
++ Tu eres el experto del proyecto, comparte datos que creas que ayudaran a otros a materializar sus ideas.
++ Dale un giro divertido a tu video, no tiene que ser tan formal.
+### Actividades
++ Cada estudiante realizará un guión donde plasme el contenido de su video de documentación.
++ Cada estudiante realizará un video explicando y mostrando el funcionamiento de su proyecto.
+### Referencias
+[Documentación](http://learn.makercademy.com/modules/intro/documentacion/)
+
+
