@@ -4,4 +4,4 @@ title: Pista de canicas
 
 ## Pista de canicas
 
-![Marble]({{site.baseurl}}/img/marble.gif)
+![Marble]({{site.baseurl}}/img/marble.GIF)
