@@ -5,3 +5,111 @@ title: Pista de canicas
 ## Pista de canicas
 
 ![Marble]({{site.baseurl}}/img/marble.GIF)
+Conocida también como marble machine o máquina de balines, una marble machine es un artilugio creativo para desplazar pelotas, hecha de materiales comunes, diseñados para enviar una canica redonda a través de tubos y embudos, sobre pistas o rieles y un retén al final. 
+Existen alocadas combinaciones que pondrán a prueba todas tus habilidades de diseño y fabricación.
+
+# Sesión 01 Análisis
+### Objetivo
+Seleccionr el mecanismo a desarrollar durante el proyecto.
+##### nota: Los estudiantes de la clase deberan organizarse de manera que los mecanismos individuales de cada alumno se puedan 
+
+### Actividades
++ Realizar una investigación sobre el tipo de mecanismos que se utilizan en estas máquinas.
++ Realizar una lluvia de ideas donde compartan la información que recopilaron en la investigación.
++ Realizar una propuesta de diseño la cual involucre al menos 4 dispositivos de movimiento diferentes.
+
+### Recomendaciones 
++ Investiga a fondo como se fabrican estos dispositivos para que sea más fácil el proeso de diseño.
++ Organicen una secuencia en la cual cada estudiante eliga a un compañero con el cual conectará su pista y la pista final tenga un orden.
+### Referencias
+
+[Marble run](https://learn.adafruit.com/marble-run)
+[Explicación marble machine](https://www.exploratorium.edu/tinkering/projects/marble-machines)
+[Realiza un marble machine](https://hacedores.com/haz-un-marble-machine/)
+
+# Sesión 02 Prototipado
+
+Hasta el momento investigamos el alcance del proyecto, como funcionan estos dispositivos, y como podríamos construir uno, comenzaremos a materializar nuestra propuesta en un primer prototipo que sea capaz de transportar nuestras canicas o balines a lo largo de toda la pista.
+
+### Objetivo 
+Materializar su propuesta en un prototipo funcional.
+
+### Actividades
++ Diseñar su prototipo.
++ Fabricar su primer prototipo con materiales de fácil acceso.
+
+### Recomendaciones 
++ Recuerda que es tu primer prototipo, no imprta sino funciona al 100% el mecanismo.
++ Trata de fabricarlo en materiales simples (cartón por ejemplo) por si es necesario realizar modifiaciones.
++ Enfócate en poder observar si es viable el mecanismo que elegiste o si es necesario cambiarlo.
+
+### Referencias
+[Cartón](http://learn.makercademy.com/modules/referencias/Carton/)
+[Mi propia marble machine](https://www.taringa.net/+hazlo_tu_mismo/mi-propia-marble-machine_1hvqxe)
+[Pista de canicas de cartón](https://www.youtube.com/watch?v=bIwkHS24TFU)
+[pista motorizada](https://www.youtube.com/watch?v=MyphMV2wPAk)
+[pista en madera bloques intercambiables](https://www.youtube.com/watch?v=lQvcoOzmLqs)
+
+# Sesión 03 Programación 
+Hasta el momento desarrollamos nuestro primer prototipo y sus mecanismos, llego el momento de compementarlos con la programación para verlos en acción.
+### Objetivo
+Realizar la programación del proyecto.
+
+### Actividades
++ Realiza la programación de los actuadores que moverán los mecanismos.
++ Realiza la programación de los sensores que estarán en tu proyecto.
++ Integra LEDS a tu programación para darle vida a tu proyecto.
+
+### Recomendaciones
++ Antes de realizar la conexión de tus componentes electrónicos, investiga más sobre ellos.
++ No olvides que utilizando tu crickit las conexiones son mas sencillas y no necesitas realizar acoplamientos.
++ Utiliza la mayor cantidad de material de tu kit de robótica.
+
+### Referencias 
+[I/O digitales](https://learn.adafruit.com/circuit-playground-digital-input)
+[control de motores](https://learn.adafruit.com/make-it-move-with-crickit/dc-motor-makecode)
+[MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
+
+# Sesión 04 Manufactura
+
+Una vez que integraste la programación a tu proyecto, pudiste observar que materiales y mecanismos funcionan mejor, llego el momento de fabricar nuestro prototipo final 100% funcional, implementando herramientas de manufactura digital.
+
+### Objetivo
+Fabricar el prototipo final del proyecto.
+
+### Actividades
++ Inspecciona tu proyecto para visualizar que mecanismos es necesrio reemplazar.
++ Actualiza piezas que puedan romperse por partes fabricadas con impresión 3D y/o corte láser.
++ Obten el prototipo final de tu proyecto.
+
+### Recomendaciones 
++ Al utilizar máquinaria, no olvides tu equipo de seguridad.
++ No olvides la parte estetica del proyecto, píntalo y/o decóralo para darle un buen aspecto visual.
++ Algunas piezas necesitaran varias iteraciones, lo importante es que la pieza final funcione.
+
+### Referencias 
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+[Modelado 3D](http://learn.makercademy.com/modules/referencias/modelado3d/)
+
+# Sesión 05 Pruebas de funcionamiento 
+Hemos avanzado bastante en nuestro prototipo final, integramos los mecanismos y actualizamos las piezas necesarias, todo esto controlado por nuestra programación, ahora estamos listos para poner a prueba nuestro prototipo y poder observar fortalezas y puntos de mejora en nuestro proyecto.
+### Actividades
++ Cada alumno presentará de manera bleve su proyecto, explicando como funciona y que mecanismos utilizo.
++ La clase brindará una retroalimentación despues de cada presentación de proyecto.
++ Realicen la prueba de conexión de pistas individuales para visualizar que trabajen en conjunto.
+
+### Recomendaciones 
++ Recuerda que tu eres el creador del proyecto por lo cual tu eres el experto en su funcionamiento.
++ Las retroalimentaciones deben aportar al proyecto.
++ Al realizar la conexión de pistas revisen que una canica o balín realice el recorrido completo.
+
+# Sesión 06 Documentación 
+El desarrollo del proyecto fue un largo y divertido camino del cual aprendimos muchísimo sobre mecanismos, programación y manufactura, llego el momento de compartir con el mundo todo lo aprendido.
+### Actividades 
++ Recopila toda la información (fotos, planos, diseños) que obtuviste durante el proceso de fabricación del proyecto y con esto realiza un guión para tu proyecto.
++ Realiza un video de máximo 5 minutos donde expliques el funcionamiento de tu proyecto y los retos que abordaste para fabricarlo, tu video será el entregable que revisará tu profesor por lo cual debe estar disponible en YouTube.
+### Referencias 
+[Documentación](http://learn.makercademy.com/modules/intro/documentacion/)
+[Como subir un video a YouTube](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=es-419)
