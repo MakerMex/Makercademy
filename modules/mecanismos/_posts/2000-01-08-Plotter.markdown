@@ -1,18 +1,68 @@
 ---
-title: Plotter
+title: Plóter
 ---
 
-## Plotter
+## Plóter
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOHwzFwgem8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-These are some links that will help you with setting up a course using the template:
+Durante el transcurso del curso desarrollamos diversos proyectos donde fuimos aprendiendo el funcionmiento de varios componentes electrónicos, utilizamos herramientas de manufactura digital como impresoras 3D y cortadoras láser, llego el momento de poner a prueba todos estos conocimientos y fabricar nuestro propio plóter.
 
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
+# Sesión 01 Análisis
+Un [plóter o trazador gráfico](https://es.wikipedia.org/wiki/Pl%C3%B3ter) es una máquina que se utiliza junto con el ordenador e imprime en forma lineal, en nuestro caso el plóter a fabricar utilizará una pluma o marcador para realizar los trazos.
+### Objetivo 
+Realizar la propuesta del mecanismo para el funcionamiento del plóter.
 
-## Intermediate
+### Actividades
++ Realizar una investigación a fondo sobre este tipo de máquinas, como funcionan, tipos, aplicaciones etc.
++ Investigar sobre los sistemas de movimiento en 2 ejes.
++ Realizar la propuesta de diseño del plóter.
++ Realizar la propuesta de funcionamiento del mecanismo.
 
-## Advanced
+### Recomendaciones 
++ Debido a que el proyecto es de nivel mas avanzado pueden realizar el proyecto en equipo.
++ Antes de seleccionar un mecanismo, realiza una comparación para seleccionar el que mejor se adapte a tus necesidades.
++ Toma en cuenta el método para controlar tu plóter.
++ Identifica de que manera reconocerá los dibujos tu plóter.
 
-Here are some links for you if you are planning to customize the provided course template:
+### Referencias
 
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
+[Plóter con arduino](https://www.youtube.com/watch?v=k1vzT-T8LJA&t=54s)
+[Plóter con motores a paso reciclados](https://create.arduino.cc/projecthub/mega-das/arduino-cnc-plotter-drawing-machine-a73ea2)
+[drawbot casero](https://www.instructables.com/id/How-to-Make-a-Great-Drawing-Plotter-at-Home/)
+
+# Sesión 02 Prototipado
+Seleccionar el mecanismo a utilizar en nuestro plóter no fue nada sencillo, llego el momento de materializar estas ideas y bocetos en un primer prototipo.
+### Objetivo 
+Fabricar el primer prototipo del plóter.
+
+### Actividades
++ Diseñar las piezas que serán parte del mecanismo.
++ Utilizar manufactura digital para fabricar las piezas del plóter.
++ realizar el ensamble del primer prototipo.
+
+### Recomendaciones 
++ Para obtener precisión en los movimientos del plóter utiliza piezas fabricadas con manufactura digital.
++ Toma en cuenta el área de trabajo esperado al diseñar tus piezas.
++ En tus diseños toma en cuenta donde colocarás los motores y demás componentes.
+
+### Referencias
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+[Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+
+# Sesión 03 Programación 
+Una vez que nuestro primer prototipo esta listo, hay que integrarlo con la programación necesaria para controlar cada uno de los ejes.
+### Objetivo 
+Realizar la programación para controlar el plóter.
+### Actividades
++ Programar cada uno de los ejes del plóter.
++ Programar el actuador que levantará la pluma en los desplazamientos. 
++ Programar una secuencia de puntos para dibujar un cuadrado y un círculo.
+
+### Recomendaciones 
++ Enfócate en controlar un eje independiente de manera precisa y a continuación realiza el movimiento de ambos ejes.
++ Utiliza un servomotor para subir y bajar con facilidad la pluma.
+
+### Referencias
+[Uso de motores a Pasos en crickit](https://learn.adafruit.com/all-about-stepper-motors)
+
