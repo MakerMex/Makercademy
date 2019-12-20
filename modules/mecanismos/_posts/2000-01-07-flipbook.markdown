@@ -3,16 +3,6 @@ title: Flipbook
 ---
 
 ## Flipbook
-
-These are some links that will help you with setting up a course using the template:
-
-- [Markdown reference](http://daringfireball.net/projects/markdown/syntax)
-
-## Intermediate
-
-## Advanced
-
-Here are some links for you if you are planning to customize the provided course template:
-
-- [Jekyll nuts and bolts](]http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
-- [Liquid reference](http://docs.shopify.com/themes/liquid-basics)
+<iframe width="560" height="315" src="//www.youtube.com/embed/Ze2G149b4Jk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un-BdBSOGKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Un-BdBSOGKY
