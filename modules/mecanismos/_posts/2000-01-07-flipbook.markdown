@@ -2,7 +2,106 @@
 title: Flipbook
 ---
 
-## Flipbook
-<iframe width="560" height="315" src="//www.youtube.com/embed/Ze2G149b4Jk" frameborder="0" allowfullscreen></iframe>
+## Flip book
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Un-BdBSOGKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://www.youtube.com/watch?v=Un-BdBSOGKY
+
+
+Un filoscopio o [flip book](https://es.wikipedia.org/wiki/Folioscopio) es un libro que contiene una serie de imágenes que varían gradualmente de una página a la siguiente, para que, cuando las páginas se pasen rápidamente, las imágenes parezcan animarse simulando un movimiento u otro cambio. 
+
+Sesión 01 Análisis
+Durante el desarrollo de este proyecto, realizaremos un flipbook automatizado, en el cual nosotros unicamente coloquemos el block de hojas dentro de nuestro dispositivo y veamos la animación.
+### Objetivo 
+Seleccionar el mecanismo a utilizar en el dispositivo.
+### Actividades
++ Realizar la animación que estará dentro del dispositivo.
++ Investigar sobre los posibles mecanismos a utilizar en el dispositivo.
++ Realizar la propuesta de diseño del dispositivo y el mecanismo que utilizará.
++ Realizar los bocetos del mecanismo.
+
+### Recomendaciones 
++ Pueden realizar una investigación grupal donde compartan ideas de fabricación.
++ Identifiquen la animación que desean realizar y la cantidad de hojas que van a necesitar.
++ Selecciona el metodo de activación de tu dispositivo, puede ser algun sensor o un botón.
+
+### Referencias 
+[Flip book con sensor de activación](https://www.youtube.com/watch?v=ar7MSz7fOBY)
+[¿Cómo hacer un Flip book usando un video de referencia?](https://www.youtube.com/watch?v=Dp6rcbw77vI)
+[Ejemplo de animaciones de Disney](https://www.youtube.com/watch?v=QvXVjKi-HIw)
+
+# Sesión 02 Prototipado
+Ya desarrollamos la animación que llevara nuestro dispositivo y elegimos el mecanismo que utilizaremos para que funcione, llego el momento de realizar el primer prototipo de este mecanismo para revisar su funcionamiento.
+### Objetivo 
+Fabricar el primer prototipo del proyecto.
+### Actividades
++ Realizar el diseño completo del prototipo.
++ Fabricar el primer prototipo.
+### Recomendaciones 
++ Antes de fabricar las partes de tu proyecto termina por completo el diseño para evitar fabricar piezas erróneas.
++ Utiliza materiales económicos en tu primer prototipo.
++ Recuerda que realizar varias iteraciones te ayudará a obtener un mejor resultado.
+
+### Referencias
+[Alternativa de diseño](https://learn.adafruit.com/paper-craft-zoetrope-with-circuit-python)
+[Uniones con machihembrado](https://www.youtube.com/watch?v=TcLUj-DdMJg)
+[Zoetrope con pelotas](https://learn.adafruit.com/strobe-zoetrope)
+[Flip book de cartón](https://www.youtube.com/watch?v=4WLU50bsNOY)
+
+
+# Sesión 03 Programación 
+Ya fabricamos nuestro primer prototipo el cual integra el mecanismo que elegimos, para poder probar que funcione de manera correcta es necesario realizar la programación.
+### Objetivo
+Realizar la programación para que funcione el primer prototipo.
+### Actividades
++ Realizar la programación para activar el dispositivo.
++ Realizar la programación para desplazar la animación.
++ Integrar un sensor o final de carrera para cuando termine la animación se detenga.
+
+### Recomendaciones 
++ Toma en cuenta la velocidad de desplazamiento necesario para que la animación se vea de manera correcta.
++ Programa tu dispositivo para que al activarse la animación sea visible la animación en su totalidad.
++ Tu elemento que desactive el mecanismo tambien debe reiniciar la secuencia para que al activarlo de nuevo la animación este presente.
+
+### Referencias 
+[Motor DC](https://learn.adafruit.com/adafruit-arduino-lesson-13-dc-motors)
+[Conexión de Motor a pasos en crickit](https://learn.adafruit.com/make-it-move-with-crickit/use-a-stepper-motor-now)
+
+# Sesión 04 Manufactura
+Nuestro primer prototipo ya está funcionando, aun necesita algunos ajustes, pero ya comenzamos a visualizar su funcionamiento. Llego el momento de cambiar todas esas piezas que no funcionaron y convertir nuestro prototipo inicial en el prototipo final, generando piezas con ayuda de una impresora 3D y/o cortadora láser, para despues pintarlo y que tenga un acabado único.
+
+### Objetivo
+Desarrollar el prototipo final del proyecto.
+
+### Actividades
++ Utiliza las herramientas de manufactura digital para actualizar las piezas de tu primer prototipo.
++ Realiza el acabado final de tu prototipo ( Pintarlo, stickers, etc).
++ Termina el proceso de fabricación de tu prototipo.
+### Recomendaciones 
++ Si tu prototipo funciona de manera correcta unicamente actualiza las piezas.
++ Dedicale el tiempo suficiente al acabado final para que tu proyecto tenga un toque artístico.
+### Referencias
+[Tutorial para realizar engranes en blender](https://www.youtube.com/watch?v=isUI62HrBpI)
+[Flip book de madera](https://www.youtube.com/watch?v=UInHQr0IQEg&t=12s)
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+[Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+# Sesión 05 Pruebas de funcionamiento 
+Una vez finalizado el ensamble del prototipo es necesario ponerlo a prueba, para esto realizaremos una dinamica de clase en la cual colocaremos todos los dispositivos en el pasillo y los compañeros de otras clases podrán interactuar con nuestros proyectos.
+Debes estar presente para poder explicarle a tus compañeros el funcionamiento de tu proyecto, como lo desarrollaste y resolver ls dudas de los asistentes.
+
+### Recomendaciones 
++ Realicen la documentación de sus compañeros utilizado sus proyectos.
++ Se breve en tu explicación para hacer más dinamica la explicación.
+
+# Sesión 06 Documentación 
+Llego la hora de documentar todo el aprendizaje obtenido durante el desarrollo de este proyecto, necesitamos poner en orden todo ese material que fuimos recopilando en el transcurso del proyecto, fotos, videos, apuntes y diseños, todo este material te ayudará a darle forma a tu video donde expliques tu aprendizaje y funcionamiento del proyecto.
+
+### Actividades
++ Recopila toda la información referente al proyecto.
++ Realiza el guión para tu video.
++ Graba un video donde expliques el funcionamiento de tu proyecto, los aprendizajes obtenidos y muestres la exposición de tu proyecto a tus compañeros.
+
+### Recomendaciones 
++ Busca ayuda en tu clase de medios para realizar la edición de tu video.
++ Antes de subir tu video a YouTube, muestráselo a tus compañeros para obtener retroalimentación.
++ Trata que tu video no dure más de 5 minutos.
+
