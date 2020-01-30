@@ -66,3 +66,37 @@ Realizar la programación para controlar el plóter.
 ### Referencias
 [Uso de motores a Pasos en crickit](https://learn.adafruit.com/all-about-stepper-motors)
 
+# Sesión 04 Manufactura
+Hasta el momento ya realizamos nuestro primer prototipo y la programación necesaria para que funcione, llego la hora de realizar nuestro prototipo final actualizando piezas de cartón por piezas impresas en 3D y/o corte láser.
+### Objetivo
+Fabricar su prototipo final del proyecto.
+### Actividades 
++ Utiliza las herramientas de manufactura digital para actualizar las piezas de tu primer prototipo.
++ Realiza el acabado final de tu prototipo ( Pintarlo, stickers, etc).
++ Termina el proceso de fabricación de tu prototipo.
+### Recomendaciones 
++ Si tu prototipo funciona de manera correcta unicamente actualiza las piezas.
++ Dedicale el tiempo suficiente al acabado final para que tu proyecto tenga un toque artístico.
+### Referencias
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+[Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+# Sesión 05 Pruebas y funcionamiento
+Una vez que tu prototipo esta terminado, llego el momento de poner a prueba su funcionamiento, tu elegiste el sistema de funcionamiento y el como realizará los desplazamientos, realiza las primeras pruebas para ver si necesitas realizar algun ajuste a tu prototipo.
+### Actividades
++ Realiza las primeras pruebas de funcionamiento de tu proyecto.
++ Intercambia tu proyecto co algun compañero y evaluen el funcionamiento de sus proyectos.
+### Recomendaciones
++ Tu eres el experto en el funcionamiento de tu proyecto, explica a tus compañeros como funciona para que cualquier compañero pueda usarlo.
++ Realiza retroalimentación a tus compañeros para que tengan una opinión critica sobre lo que pueden mejorar.
+# Sesión 06 Documentación
+Llego la hora de documentar todo el aprendizaje obtenido durante el desarrollo de este proyecto, necesitamos poner en orden todo ese material que fuimos recopilando en el transcurso del proyecto, fotos, videos, apuntes y diseños, todo este material te ayudará a darle forma a tu video donde expliques tu aprendizaje y funcionamiento del proyecto.
+
+### Actividades
++ Recopila toda la información referente al proyecto.
++ Realiza el guión para tu video.
++ Graba un video donde expliques el funcionamiento de tu proyecto, los aprendizajes obtenidos y muestres la exposición de tu proyecto a tus compañeros.
+### Recomendaciones
++ Busca ayuda en tu clase de medios para realizar la edición de tu video.
++ Antes de subir tu video a YouTube, muestráselo a tus compañeros para obtener retroalimentación.
++ Trata que tu video no dure más de 5 minutos.
