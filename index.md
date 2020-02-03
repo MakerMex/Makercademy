@@ -14,23 +14,23 @@ Impulsa la enseñanza a niños, adolescentes y jóvenes. Para aprender diferente
 
 ### Año 1: Pensando como un programador
 
-Este año busca que los alumnos logren entender los conceptos básicos de la programación y fabricación digital.
+Estos proyectos se enfocan en demostrar y explorar los conceptos básicos de la programación y fabricación digital.
 
 ### Año 2: Mecanismos y movimiento
-En este año se busca acercar a los alumnos a la mecánica y mecanismos de movimiento.
+Estos proyectos se enfocan en demostrar y explorar el diseño y desarrollo de mecanismos de movimiento.
 
 ### Año 3: Sensores y conectividad
-Este año busca desarrollar en los alumnos los conocimientos sobre el internet de las cosas.
+Estos proyectos se enfocan en demostrar y explorar la integracion de sistemas de comunicacion entre maquinas y personas (IOT).
 
 ## Currícula
 Durante el ciclo de MakerCademy, los estudiantes desarrollaran diversas actividades con las cuales obtendrán el aprendizaje de diversas áreas como lo son:
 
-
 | Año | Diseño | Programación | Fabricación | Comunidad |
 | :---: | :---: | :---: | :---: | :---: |
-| [101](http://learn.makercademy.com/modules/basico/101/) | [Diseño básico en 2D y 3D.](http://learn.makercademy.com/modules/referencias/cortadoralaser/) | [Programación por bloques para el manejo de sensores.](http://learn.makercademy.com/modules/referencias/Makecode/) | [Fabricación  con materiales y herramientas básicas.](http://learn.makercademy.com/modules/referencias/Carton/) | [Participa y comparte con la comunidad sus creaciones.](http://makermex.com/forum/makercademy-124) |
-| [102](http://learn.makercademy.com/modules/mecanismos/Alimentador/) | [Combina partes 2D y 3D en el diseño de su proyecto.](http://learn.makercademy.com/modules/referencias/cnc/) | [Programación en C para controlar actuadores.](http://learn.makercademy.com/modules/referencias/Arduino/) | [Utiliza manufactura digital y herramientas para crear prototipos.](http://learn.makercademy.com/modules/referencias/Impresion3D/) | [Colabora con la comunidad, compartiendo conocimiento.](http://makermex.com/forum/makercademy-124) |
-| [103](http://learn.makercademy.com/modules/iot/resources/) | [Diseña partes integradoras en 2D y 3D mas complejas.](http://learn.makercademy.com/modules/referencias/modelado3d/) | [Utiliza algoritmos avanzados para el control remoto de actuadores.](http://learn.makercademy.com/modules/referencias/Python/) | Fabricación. | Comunidad. |
+| [101](http://learn.makercademy.com/modules/basico/101/) | [Diseño básico en 2D y 3D.](http://learn.makercademy.com/modules/referencias/cortadoralaser/) | [Programación por bloques para el manejo de sensores.](http://learn.makercademy.com/modules/referencias/Makecode/) | [Fabricación y prototipado con materiales y herramientas básicas.](http://learn.makercademy.com/modules/referencias/Carton/) | [Participa y comparte tus proyectos y creaciones con la  comunidad.](http://makermex.com/forum/makercademy-124) |
+| [102](http://learn.makercademy.com/modules/mecanismos/Alimentador/) | [Combina partes 2D y 3D en el diseño de su proyecto.](http://learn.makercademy.com/modules/referencias/cnc/) | [Programación en bloques para controlar actuadores.](http://learn.makercademy.com/modules/referencias/Arduino/) | [Utiliza manufactura digital  para crear prototipos.](http://learn.makercademy.com/modules/referencias/Impresion3D/) | [Colabora con la comunidad, compartiendo conocimiento.](http://makermex.com/forum/makercademy-124) |
+| [103](http://learn.makercademy.com/modules/iot/resources/) | [Diseño paramétrico.](http://learn.makercademy.com/modules/referencias/modelado3d/) | [Integración de proyectos con interfaces de comunicación.](http://learn.makercademy.com/modules/referencias/Python/) | Estrategias de prototipado ágil
+y validación. | Documentacion de proyectos. |
 
 
 
@@ -38,16 +38,16 @@ Durante el ciclo de MakerCademy, los estudiantes desarrollaran diversas activida
 
 ### Desarrollo de proyectos
 
-Cada proyecto está dividido en tres tipos de sesiones:
+Cada proyecto se desarrollo en diferentes tipos de sesiones:
 
 **- Sesión de análisis:**
 
-Aquí el alumno encuentra el problema que él quiere resolver, y lo hace de la manera que cree conveniente.
+Aquí el alumno analiza la informacion y el problema , determina la problemática para enfocar su proyecto, y plantea su plan de trabajo.
 
-**- Sesión de prototipado**
+**- Sesiónes de prototipado**
 
-Con base en el problema y la solución ya definida, busca la manera en como hacer que su prototipo cubra todas sus expectativas.
+Basado en la problemativa a resolver, inicia el proceso ciclico de imaginar, crear, jugar, compartir y reflexionar la soucion.
 
 **- Sesión de presentación y retroalimentación**
 
-Ya entregado el prototipo se busca retroalimentación de los mismos alumnos, ya que parte de la filosofía de MakerCademy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos eligan, ya sea video, presentación, fotos, etc.
+Se presenta el prototipo final y los aprendisajes del proyecto al resto del grupo, se busca retroalimentación entre alumnos, ya que parte de la filosofía de MakerCademy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos eligan, ya sea video, presentación, fotos, etc.
