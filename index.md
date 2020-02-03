@@ -29,8 +29,7 @@ Durante el ciclo de MakerCademy, los estudiantes desarrollaran diversas activida
 | :---: | :---: | :---: | :---: | :---: |
 | [101](http://learn.makercademy.com/modules/basico/101/) | [Diseño básico en 2D y 3D.](http://learn.makercademy.com/modules/referencias/cortadoralaser/) | [Programación por bloques para el manejo de sensores.](http://learn.makercademy.com/modules/referencias/Makecode/) | [Fabricación y prototipado con materiales y herramientas básicas.](http://learn.makercademy.com/modules/referencias/Carton/) | [Participa y comparte tus proyectos y creaciones con la  comunidad.](http://makermex.com/forum/makercademy-124) |
 | [102](http://learn.makercademy.com/modules/mecanismos/Alimentador/) | [Combina partes 2D y 3D en el diseño de su proyecto.](http://learn.makercademy.com/modules/referencias/cnc/) | [Programación en bloques para controlar actuadores.](http://learn.makercademy.com/modules/referencias/Arduino/) | [Utiliza manufactura digital  para crear prototipos.](http://learn.makercademy.com/modules/referencias/Impresion3D/) | [Colabora con la comunidad, compartiendo conocimiento.](http://makermex.com/forum/makercademy-124) |
-| [103](http://learn.makercademy.com/modules/iot/resources/) | [Diseño paramétrico.](http://learn.makercademy.com/modules/referencias/modelado3d/) | [Integración de proyectos con interfaces de comunicación.](http://learn.makercademy.com/modules/referencias/Python/) | Estrategias de prototipado ágil
-y validación.|Documentacion de proyectos.|
+| [103](http://learn.makercademy.com/modules/iot/resources/) | [Diseño paramétrico.](http://learn.makercademy.com/modules/referencias/modelado3d/) | [Integración de proyectos con interfaces de comunicación.](http://learn.makercademy.com/modules/referencias/Python/) | Estrategias de prototipado ágil y validación.| Documentacion de proyectos.|
 
 
 
