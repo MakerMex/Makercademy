@@ -1,88 +1,31 @@
 ---
-title: Proyecto 001 Semáforo
+title: Introducción
 ---
 
-# Semáforo con Circuit Playground Express
+# Introducción al Kit MakerCademy 101
+# Pensando como un programador 
+Bienvenido al sistema educativo Makercademy, en este tu primer año nos enfocaremos a conocer ampliamente la tarjeta [circuit playground express](http://learn.makercademy.com/modules/referencias/acp/) y [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/).
+# Conozcamos tu kit de robótica MakerCademy 101
 
-<DIV ALIGN="justify">Esta lección introduce al alumno a utilizar el método de solución de problemas con objetos cercanos a la vida diaria como primer acercamiento, en donde definen, preparan, iteran y reflexionan en un tema de la vida cotidiana como la educación vial. La lección da inicio preguntando a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona? ¿tienen algún problema? ¿ćomo se puede mejorar el diseño o funcionalidad? ¿Has pensado alguna necesidad que se puede resolver que involucre alguna capacidad diferente? ¿cuánto tiempo debe de durar cada color? ¿por qué esos colores? ¿Tiene que tener algún tiempo establecido? ¿hay estandarizaciones que deban de ser aplicadas? Es importante hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores.</DIV>
-
+### Circuit playground express
 ![MakerCademy](https://media.giphy.com/media/dYnpeJQXUUct2U8BAh/giphy.gif?access_token=be806810-44bc-49aa-b092-942d156ae3e0)
 
-## Propósito
-<DIV ALIGN="justify">Los alumnos aplicarán los conocimientos técnicos en los colores aplicados, el tiempo establecido, etc. para proponer o diseñar una solución  o mejora que ayude a resolver el problema encontrado. El proyecto busca sensibilizar a los alumnos en el uso de los semáforos, que beneficie a diferentes sectores de manera directa desde los peatones y los conductores,  y de manera indirecta a otras áreas como ambiental y social. Encontrar una solución o una mejora es el centro de este proyecto.</DIV>
+Esta tarjeta reprogramable será el cerebro de todos nuestros proyectos, tiene incluidos varios sensores que nos ayudarán a crear divertidos proyectos donde interactuemos con nuestro entorno.
+¿quieres saber más sobre tu nueva tarjeta? 
+<a class="btn btn-primary" target="_blank" href="http://learn.makercademy.com/modules/referencias/acp/"> ¡Aprendamos más!</a>
+### Neopixeles Adafruit Flora
+![flora]({{site.baseurl}}/img/flora.jpg)
+Al igual que los neopixels integrados en nuestra circuit playground express, estos neopixels pueden iluminarse de cualquier color al ser [LEDS RGB](https://www.youtube.com/watch?v=yUPLoJvvw5U&t=23s)
 
-## Objetivos
-Los alumnos serán capaces de: 
-- Aplicar la solución de problemas que vivimos día con día en las calles. 
-- Aprender a tomar tiempos con un cronómetro. 
-- Aplicar la psicología del color. 
-- Identificar variables que afectan el problema. 
-- Conocer las problemáticas que afectan directa e indirectamente (social, ambiental, etc). 
-- Proponer diseños de solución de acuerdo con el problema. Proponer estrategias de fabricación a la propuesta diseñada.
+### Hilo conductivo
+![Hilo]({{site.baseurl}}/img/hilo.jpg)
+Este pequeño carrete no es hilo común y corriente, ¡conduce la electricidad!, este hilo nos ayudará a crear divertidos proyectos en conjunto con los neopixels flora para darle vida a nuestra ropa.
+### Cables caimán
+![Caimanes]({{site.baseurl}}/img/caiman.jpg)
+Estos cables serán nuestros aliados para realizar las conexiones en los pines de la tarjeta circuit playground express de manera más rápida y sencilla.
 
-## Introducción
-<DIV ALIGN="justify">Pregunta a los alumnos acerca de los semáforos, ¿qué hacen? ¿cómo funciona? ¿tienen algún problema? ¿ćomo se puede mejorar el diseño o funcionalidad? ¿Has pensado alguna necesidad que se puede resolver que involucre alguna capacidad diferente? ¿Tiene que tener algún tiempo establecido? ¿Favorece a todos?</DIV>
-
- **Actividad por salón:**
- <DIV ALIGN="justify">Hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores y nuevas situaciones que los alumnos se den cuenta.</DIV>
-
-**Objetivo de la discusión:** 
-<DIV ALIGN="justify">Sirve para identificar necesidades en el entorno, identificar qué variables afectan el tiempo, funcionalidad o diseño en los semáforos.</DIV>
-
-**Actividad**
-<DIV ALIGN="justify">Platíca con los alumnos acerca de los algoritmos, diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?</DIV>
-
-## Sesión técnica
-<DIV ALIGN="justify">Presenta a los alumnos las primeras imágenes de cómo funciona un diagrama de flujo de un algoritmo.
-¿Qué es un Algoritmo? Un Algoritmo son series de pasos que una computadora o incluso nosotros seguimos realizar una tarea o alcanzar un objetivo.
-Platica también sobre los diagramas de flujo, código de programación, condicionales y similitudes entre diagramas de flujo. ¿Qué son? ¿Cómo funciona? ¿Qué compone un diagrama de flujo? ¿Cuál es la relación de diagramas de flujo con programación y electrónica?</DIV>
-
-**Ejemplo** 
-¿Qué pasos tienes que hacer para cambiar una llanta? Para cambiar una llanta comúnmente son los siguientes pasos (teniendo toda la herramienta):
-1. Aflojar birlos 
-2. Colocar el gato hidráulico 
-3. Subir el carro 
-4. Quitar los birlos 
-5. Quitar llanta 
-6. Poner llanta nueva 
-7. Poner birlos a tope 
-8. Bajar el carro 
-9. Apretar los birlos
-
-## ¡Ahora te toca a ti!
-**Ejercicio:** Indica a los alumnos qué deben poner en algoritmo (serie de pasos) el funcionamiento de un semáforo
-
-## Prototipado
-
-Esta clase está destinada a que los alumnos se dediquen a fabricar o finalizar de fabricar su idea inicial. Tienen como objetivo entregar un primer prototipo al finalizar la clase por lo que deben aprovechar el mayor tiempo posible.
-
-Con base en su prototipo se deberán de responder las siguientes preguntas:
-- ¿Cuáles son los puntos débiles? 
-- ¿Cómo funcionan las soluciones anteriores? 
-- ¿El prototipo cumple las expectativas? 
-- ¿Cómo se aprovecha el diseño/producto/desarrollo? 
-- ¿Mi idea soluciona el problema? Si o No ¿Por qué? 
-- ¿Qué puntos no incluiste en este primer prototipo? 
-- ¿Tu prototipo cumple con el objetivo? 
-
-**Entregable:** Al finalizar la clase tienen que entregar su prototipo funcional.
-
-## Conclusión
-
-Recuerda que es muy importante documentar. Como parte de la filosofía de MakerCademy este es un punto clave. 
-Los alumnos deben entregar en un video (como ejemplo), esto con el fin de que tú como maestro revises que se hicieron todos los pasos con respecto a su conclusión final.
-
-## Referencias 
-* [Conociendo circuit playground express](https://www.youtube.com/watch?v=i4Bijnff0Ko)
-* [Introducción a MakeCode](https://www.youtube.com/watch?v=i_KmaQWsUHw&t=600s)
-* [Primeros pasos con Circuit Playground Express](https://www.instructables.com/id/KIt-Arte-Y-Ciencia-Primeros-Pasos/)
-* [Conociendo Circuit Playground Express](https://www.youtube.com/watch?v=wEpr75JhGFs)
-* [Programando con Circuit Python](https://www.youtube.com/watch?v=tnrZxJpQUMQ)
-* [Uso de NeoPixel](https://www.youtube.com/watch?v=0v7HI9W6pks&t=201s)
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"> ¡Se parte de nuestra comunidad!</a>
+# ¡Comencemos con nuestro primer proyecto!
 
 
 
-
-
-
-<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124"> ¡Dinos tus dudas!</a>
