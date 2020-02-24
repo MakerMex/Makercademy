@@ -2,5 +2,10 @@
 title: Mood lamp
 ---
 
-# Lampara de escritorio con circuit playground express
+# Lámpara de escritorio con circuit playground express
+Las lámparas de escritorio siempre han estado presentes en nuestro hogar, durante este proyecto realizaremos nuestra propia lámpara, donde realizaremos el control de los neopixels integrados en nuestra [circuit playground express](http://learn.makercademy.com/modules/referencias/cpx/). <br>
+El siguiente video ejemplifica una idea aplicada a este proyecto.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MV6vBBZUvtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
