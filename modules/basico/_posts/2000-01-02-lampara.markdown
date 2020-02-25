@@ -33,4 +33,24 @@ using buttons (pag. 50).  "
 
 [Mood lamp hecha con vaso de cafe](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
 
+## Sesión 02 Prototipado
+
+Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas y los sistemas de activación que podemos utilizar, con base en nuestra investigación llego el momento de realizar nuestro primer prototipo, ¡manos a la obra!.
+### Objetivo
++ Realizar el primer prototipo funcional de su proyecto.
+
+### Recomendaciones 
++ Recuerda que esta será tu primera iteración y tendrás otra sesión para mejorarlo, enfocate en que funcione.
++ Utiliza materiales de facil acceso, cartón, envases vacios, etc.
++ Desarrolla un proyecto alcanzable.
++ Aun no es necesario realizar la programación de la tarjeta circuit playground express.
+
+### Actividades
++ Con base en su propuesta, cada estudiante realizará el primer prototipo de su proyecto.
++ Realizar un intercambio de ideas con sus compañeros para mejorar su primer prototipo.
+
+### Referencias 
+[Lego head lamp](https://www.thingiverse.com/thing:3875453)
+[Lampara de cristales](https://learn.adafruit.com/paper-craft-crystal-gem-lantern)
+[Rocket lamp](https://learn.adafruit.com/cpx-rocket-lamp)
 
