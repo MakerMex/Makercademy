@@ -9,3 +9,13 @@ El siguiente video ejemplifica una idea aplicada a este proyecto.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MV6vBBZUvtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Sesión 01 Análisis
+#### Objetivo 
+Seleccionar el tipo de lampara a desarrollar. 
+#### Recomendaciones
++ Realicen una investigación previa sobre el funcionamiento de las lámparas y descubran ¿cómo funcionan?, ¿qué componentes las integran?, etc, para tener un mejor panorama del proyecto a realizar.
+
++ Pueden realizar una lluvia de ideas donde vean las alternativas que tienen para desarrollar su lámpara.
+
++ Trabajar en equipo les ayudará a poner en orden sus ideas y visualizar una propuesta que sean capaces de desarrollar.
++ Pueden checar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares realizados para visualizar el alcance del proyecto.
