@@ -19,3 +19,18 @@ Seleccionar el tipo de lampara a desarrollar.
 
 + Trabajar en equipo les ayudará a poner en orden sus ideas y visualizar una propuesta que sean capaces de desarrollar.
 + Pueden checar las [referencias](http://learn.makercademy.com/modules/referencias/Proyectos/) de proyectos similares realizados para visualizar el alcance del proyecto.
+
+### Actividades 
++ Seleccionar el tipo de lámpara a desarrollar y realizará su propuesta.
++ Realizar los bocetos de su lámpara.
+
+### Referencias
+"Make: Getting started with adafruit circuit payground Express.
+Mike Barela
+Maker Media inc.
+Canada (2018)
+using buttons (pag. 50).  "
+
+[Mood lamp hecha con vaso de cafe](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
+
+
