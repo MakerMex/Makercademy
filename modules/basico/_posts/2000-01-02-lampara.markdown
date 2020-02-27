@@ -53,4 +53,43 @@ Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas 
 [Lego head lamp](https://www.thingiverse.com/thing:3875453)
 [Lampara de cristales](https://learn.adafruit.com/paper-craft-crystal-gem-lantern)
 [Rocket lamp](https://learn.adafruit.com/cpx-rocket-lamp)
+## Sesión 03 Programación 
+En la sesión pasada realizamos nuestro primer prototipo del proyecto, nos enfocamos completamente en convertir nuestros materiales en algo tangible, llego el momento de darle vida a nuestro proyecto realizando la programación de la tarjeta circuit playground express.
+### Objetivo 
+Realizar la programación para que los neopixels de la tarjeta se activen y desactiven mediante sonido.
+
+### Recomendaciones 
++ Revisa la sección de [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/) para conocer más sobre programación por bloques.
++ Utiliza el sensor de sonido para activar y desactivar tu lámpara.
++ Si tienes alguna inquietud sobre el funcionamiento de tu tarjeta, cuéntanos en el [foro](http://makermex.com/forum/makercademy-124)
+
+### Actividades
++ Realiza el algoritmo de programación en MakeCode para activar y desactivar los neopixels.
+
+### Referencias.
+[Descripción de la tarjeta CPX](http://learn.makercademy.com/modules/referencias/cpx/)
+[Primeros pasos con circuit playground express](https://learn.adafruit.com/circuit-playground-lesson-number-0)
+[Uso de neopixels de la CPX con MakeCode](http://www.makermex.com/blog/educacion-maker-3/post/aprende-a-usar-los-neopixels-de-la-circuit-playground-530)
+
+## Sesión 04 Manufactura
+Ya realizamos nuestro primer prototipo en el cual probamos la programación que realizamos la sesión pasada, llego el momento de realizar nuestro prototipo final puede ser una mejora de nuestro primer prototipo o un nuevo prototipo.
+### Objetivo
+Realizar el prototipo final del proyecto.
+### Actividades
++ Realiza el prototipo final del proyecto.
++ Realiza el decorado de tu proyecto para darle una mejor presentación.
++ Integra la programación realizada a tu prototipo.
+
+### Recomendaciones 
++ Si tu primer prototipo funciona de manera correcta, unicamente realiza mejoras a tu diseño.
++ Mejora la presentación de tu proyecto para obtener una mejor calificación.
++ Si tu primer prototipo no funciona correctamente, puedes realizar un prototipo completamente diferente, solo recuerda que tendrás que invertirle el doble de tiempo.
+
+### Referencias
+"Prototype to Product
+Alan Cohen
+O’Reilly Media, Inc.
+USA(2015)
+Deadly Sin #1: Putting Off “Serious” Testing Until the
+End of Development (pag. 5)"
 
