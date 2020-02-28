@@ -18,6 +18,7 @@ Es un sistema educativo STEAM, que promueve el aprendizaje mediante el desarroll
 
 -No promovemos el uso de productos cerrados. Buscamos que los estudiantes experimenten, hagan, desarrollen, jueguen y solucionen con las herramientas y materiales disponibles en su entorno.
 
+<iframe width="640" height="360" src="//https://www.youtube.com/watch?v=5U6xXqElj08" frameborder="0" allowfullscreen></iframe>
 
 ## Objetivo
 Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas
