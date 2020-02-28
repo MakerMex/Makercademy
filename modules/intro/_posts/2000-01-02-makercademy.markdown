@@ -17,8 +17,7 @@ Es un sistema educativo STEAM, que promueve el aprendizaje mediante el desarroll
 -No desarrolla manuales, ni busca que los estudiantes sigan una serie de pasos. En los alumnos al tener una clase STEAM se desarrollará la experimentación y deducción. Nuestras guías se enfocan en desarrollar el conocimiento empírico, el prototipado y la experimentación.
 
 -No promovemos el uso de productos cerrados. Buscamos que los estudiantes experimenten, hagan, desarrollen, jueguen y solucionen con las herramientas y materiales disponibles en su entorno.
-
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=5U6xXqElj08" frameborder="0" allowfullscreen></iframe>
+<iframe width="1004" height="753" src="https://www.youtube.com/embed/5U6xXqElj08" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Objetivo
 Acercar los conocimientos de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas
