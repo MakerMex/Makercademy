@@ -18,12 +18,19 @@ Crea tus propios ritmos increíbles una vez que hayas creado el Piano Frutal. Ut
 - [Piano capacitivo](http://learn.makercademy.com/modules/referencias/Impresion3D/)
 - [Instrumento musical](https://www.youtube.com/watch?v=WNB-ImD3eZ4)
 
-- [Robot de silvido](https://www.youtube.com/watch?v=Z5jgWYZvavE)
-- [Sensor de desastres naturales](https://www.youtube.com/watch?v=QJrkLUsTELQ9)
-- [Yoyo con neopixels](https://www.youtube.com/watch?v=CDZkRf4xXTg)
-- [Orejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)
+Descubre los diferentes sensores, entradas y salidas capacitivas de tu Circuit y materializa tus ideas creando proyectos divertidos con diversos materiales.
+
+Crea un yoyo utilizando los neopixels de tu Circuit y complementalo con un modelado de la estructura de un yoyo, imprime tu pieza en 3D y has las conexiones necesarias.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDZkRf4xXTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Utiliza cartón o legos para realizar tus proyectos y complementa de forma divertida tus proyectos de la Circuit Playground Express. 
 - [Sensor de luz](https://www.youtube.com/watch?v=k4LbZrmseO4)
 - [Grua de cartón](https://www.youtube.com/watch?v=d88VJP7LGy0)
+
+Encuentra otros proyectos donde podrás ver las diversas aplicaciones que puede tener tu Circuit en las siguientes páginas.
+- [Robot de silvido](https://www.youtube.com/watch?v=Z5jgWYZvavE)
+- [Sensor de desastres naturales](https://www.youtube.com/watch?v=QJrkLUsTELQ9)
+- [Orejas de conejo](https://www.youtube.com/watch?v=-e9c_cxSAGQ)
 
 ### Paginas web para encontrar Proyectos
 
