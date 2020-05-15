@@ -34,32 +34,30 @@ Encuentra otros proyectos donde podrás ver las diversas aplicaciones que puede 
 
 ### Paginas web para encontrar Proyectos
 
+Te presentamos algunas páginas recomendadas donde podrás encontrar ejemplos de proyectos que puedes desarrollar con tu Circuit Playground Express o más información sobre tu kit.
+
 - [MakerMex](http://www.makermex.com/blog/educacion-maker-3)
 - [Adafruit](https://adafruit.com)
 - [Instructables](https://www.instructables.com/)
 - [Hackaday](https://hackaday.com)
 - [Sparkfun](https://sparkfun.com)
 
-### Tutoriales
-
-- [Ventilador casero](https://blog.flexbot.es/ventilador-casero/)
-- [LEDs ritmicos](https://proyectoselectronicos.garralatino.com/leds-ritmicos-microfono/)
-
-
 ### Blogs
 
-- [Flexobot](https://blog.flexbot.es/)
+Estas son algunas páginas de blogs recomendas para que continues aprendiendo sobre electrónica.
+
 - [Electronicasi](http://www.electronicasi.com/)
 - [Proyectos electrónicos](http://proyectoselectronics.blogspot.com/)
 - [Electrónica y telecomunicaciones](http://electronicaytelecomunicaciones-jc.blogspot.com/2017/08/proyectos-electronicos-pdf.html)
-- [Hackster.io](https://www.hackster.io/)
 
 ### Canales de youtube
 
+Te recomendamos estos canales de youtube en donde muestran contenido que te puede ayudar a seguir aprendiendo sobre el mundo de la róbotica, eléctronica.
 - [Proyectatumente](https://www.youtube.com/channel/UCtn__bQnuqeFU-BDqd6cb5Q)
 - [Mr Maker](https://www.youtube.com/channel/UCg8gyknDT6PKomqpHPFYlog)
 - [CoolThings](https://www.youtube.com/channel/UCkaTwKDLAU_4ArYp5G-sd5Q)
 
 ### Libros de proyectos
+
 - [Python for kids](https://jasonrbriggs.com/python-for-kids/)
 - [Teach your kids to code](http://teachyourkidstocode.com/)
