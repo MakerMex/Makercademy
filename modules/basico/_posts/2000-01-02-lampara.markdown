@@ -86,10 +86,18 @@ Realizar el prototipo final del proyecto.
 + Si tu primer prototipo no funciona correctamente, puedes realizar un prototipo completamente diferente, solo recuerda que tendrás que invertirle el doble de tiempo.
 
 ### Referencias
-"Prototype to Product
-Alan Cohen
-O’Reilly Media, Inc.
-USA(2015)
-Deadly Sin #1: Putting Off “Serious” Testing Until the
-End of Development (pag. 5)"
++ [Uso de cartón](http://learn.makercademy.com/modules/referencias/Carton/)
++ [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+### Sesión 05 Pruebas y funcionamiento
+Llego el momento de poner a prueba tu prototipo, ya realizamos las mejoras a nuestro prototipo e integramos la programación desarrollada en las sesiones pasadas a nuestro prototipo final.
+### Actividades
++ Cada alumno realizará una breve presentación de su proyecto, explicando su lógica de programación.
++ La clase brindará retroalimentación a los proyectos de sus compañeros.
+
+### Sesión 06 Documentación
+Una vez presentado nuestro proyecto ante la clase, llego el momento de recopilar todo lo aprendido en el desarrollo de este proyecto, para esto realizaremos la documentación del proyecto.
+
+Actividades
++ Realizar el guión para el video de documentación.
++ Cada estudiante realizará un video de maximo 5 minutos de duración en el cual explique el funcionamiento de su proyecto, asi como el proceso de fabricación realizado, bocetos, prototipos, algoritmos de programación y pruebas, demostrando comprensión del tema, asi como los conocimientos adquiridos durante el desarrollo de este proyecto.
 
