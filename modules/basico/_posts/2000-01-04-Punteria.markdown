@@ -1,0 +1,11 @@
+---
+title: Juego de puntería  
+---
+
+# Juego de puntería con Circuit Playground Express
+
+![Punteria]({{site.baseurl}}/img/punteria.gif)
+
+
+
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
