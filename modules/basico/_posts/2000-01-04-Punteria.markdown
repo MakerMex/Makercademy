@@ -6,6 +6,53 @@ title: Juego de puntería
 
 ![Punteria]({{site.baseurl}}/img/punteria.gif)
 
+Ya sea en alguna feria o en casa, los juegos de puntería son muy originales y divertidos, en este proyecto utilizaremos el sensor infrarrojo incluido en nuestra circuit playground express para realizar uno de estos juegos.
+
+# Sesión 01 Analisis 
+![Infrarrojo]({{site.baseurl}}/img/infrarrojo.gif)
+Debido a que cada tarjeta tiene un emisor y receptor infrarrojo, este proyecto se desarrolla en parejas para que sea mas interactivo y divertido.
+Los controladores [infrarrojos](https://es.wikipedia.org/wiki/Radiaci%C3%B3n_infrarroja) más comunes los encontramos en el control remoto de la T.V. 
+### Objetivo 
+Cada pareja escogerá el juego de puntería a elaborar.
+### Recomendaciones 
+
++ Investiguen sobre como funciona el receptor y emisor infrarrojo de su tarjeta.
++ Investiguen con respecto a las distintas opciones de juegos de puntería que pueden realizar, ¡tambien pueden inventar un juego nuevo!.
++ Una vez que investigaron con respecto al tema, realicen una lluvia de ideas para escoger el mejor juego de puntería.
+
+### Actividades
+
++ Cada equipo realizará los bocetos de su proyecto.
++ Los equipos presentarán su propuesta de proyecto ante la clase.
+### Referencias 
+[Tiro al blanco infrarrojo](https://learn.adafruit.com/circuit-playground-express-laser-tag/build-a-cpx-laser-tag-game)
+[Zombie game](https://learn.adafruit.com/circuit-playground-express-ir-zombie-game/zombie-game-time-2)
+
+# Sesión 02 Prototipado
+
+Ya realizamos los primeros bocetos de nuestro juego de puntería, es hora de realizar el primer prototipo del proyecto, con el cual veremos puntos de mejora, gracias a la retroalimentación de la clase.
+
+### objetivo 
+Desarrollar el primer prototipo del proyecto.
+
+### Recomendaciones 
++ Utiliza tecnicas de [prototipado](http://learn.makercademy.com/modules/intro/soluciondeproblemas/) rápido para materializar tu proyecto.
++ Durante esta sesión enfócate en obtener un prototipo funcional.
+
+### Actividades 
++ Con base en sus bocetos y propuesta, desarrollar el primer prototipo funcional del proyecto.
++ Realizar una presentación de su prototipo ante la clase para obtener retroalimentación de sus compañeros.
+
+### Referencias 
+[Proyectos con cartón](http://learn.makercademy.com/modules/referencias/Carton/)
+[Tiro al blanco casero](https://www.youtube.com/watch?v=VRX80h2Ia-k)
+
+# Sesión 03 Programación 
+![Infrarrojo]({{site.baseurl}}/img/infrared.gif)
+
+Para un proyecto donde utilicen dos tarjetas circuit playground express, tendrán que realizar toda la programación (emisor y receptor infrarrojo) en un solo archivo de MakeCode y cargar el mismo programa a ambas tarjetas.
+### Objetivo 
+
 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
