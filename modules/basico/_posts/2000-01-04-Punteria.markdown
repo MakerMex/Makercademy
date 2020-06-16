@@ -52,6 +52,38 @@ Desarrollar el primer prototipo del proyecto.
 
 Para un proyecto donde utilicen dos tarjetas circuit playground express, tendrán que realizar toda la programación (emisor y receptor infrarrojo) en un solo archivo de MakeCode y cargar el mismo programa a ambas tarjetas.
 ### Objetivo 
+Realizar la programación del juego de puntería para integrarlo al prototipo.
+
+### Recomendaciones 
++ No coloques cartón u objetos en el receptor y/o emisor infrarrojo, de lo contrario tu proyecto no funcionará.
++ No olvides cargar el mismo programa en ambas tarjetas para que tu proyecto funcione.
++ 
+### Actividades
++ Programa el emisor infrarrojo.
++ Programa el receptor infrarrojo.
+
+### Referencias
+[Emisor y receptor infrarrojo con circuitpython](https://learn.adafruit.com/infrared-ir-receive-transmit-circuit-playground-express-circuit-python)
+[Infrarrojo Video tutorial](https://youtu.be/9pOXGTUTq-k)
+
+# Sesión 04 Manufactura
+En la sesión pasada integramos la programación a nuestro primer prototipo, llego la hora de implementar los cambios y mejoras que descubrimos en la segunda sesión y fabricar la versión final de nuestro prototipo.
+### Objetivo 
+Fabricar el prototipo final del proyecto.
+
+### Recomendaciones 
++ Utiliza técnicas de prototipado rápido como corte láser o impresión 3D para mejorar las partes de tu proyecto.
++ Recuerda utilizar el equipo de seguridad pertinente al utilizar maquinaria o herramienta.
++ Tal vez sea necesario fabricar varios prototipos antes de tener la iteración final.
+### Referencias 
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/) <br/>
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+
+# Sesión 05 Pruebas y funcionamiento
+Despues de varias iteraciones el prototipo final esta terminado, el siguiente paso es realizar las pruebas pertinentes para probar los distintos escenarios de funcionamiento y verificar que nuestro proyecto cumple con el objetivo y si fuera necesario realizar los ajustes finales.
+### Actividades
++ Los estudiantes realizaran las pruebas de funcionamiento de su proyecto, 
+
 
 
 
