@@ -14,6 +14,8 @@ En este proyecto realizaremos nuestro propio wearable utilizando los distintos s
 #### Objetivo 
 Seleccionar el dispositivo wearable a desarrollar.
 #### Recomendaciones
++ Antes de seleccionar el dispositivo a realizar realiza una investigación de las distintas opciones que hay.
++ Toma en cuenta los sensores incluidos en tu tarjeta para tener un proyecto alcanzable.
 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
