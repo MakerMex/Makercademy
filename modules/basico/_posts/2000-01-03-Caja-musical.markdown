@@ -2,10 +2,10 @@
 title: Caja musical 
 ---
 
-# caja o instrumento musical con Circuit Playground Express
+# Caja o instrumento musical con Circuit Playground
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkJmkTCQVrw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Existen distintos ritmos, notas e instrumentos musicales, en este proyecto usaremos el speaker integrado en tu tarjeta circuit playground express para hacer sonar las distintas notas.
+Existen distintos ritmos, notas e instrumentos musicales, en este proyecto usaremos el speaker integrado en tu tarjeta circuit playground para hacer sonar las distintas notas.
 ¿Qué es un buzzer?
 Un [buzzer](https://es.wikipedia.org/wiki/Zumbador) o zumbador es un actuador electrónico capaz de producir un sonido o zumbido.
 
@@ -24,9 +24,9 @@ Cada estudiante seleccionará la caja musical que fabricará con su kit de robó
 + Realizar la propuesta del proyecto.
 
 ## Referencias
-[Piano frutal](https://learn.adafruit.com/circuitpython-fruitbox-sequencer-musically-delicious-step-pattern-generator)
-[Piano con limones](https://learn.adafruit.com/circuit-playground-express-piano-in-the-key-of-lime)
-[Piano touch](https://learn.adafruit.com/touch-tone-for-circuit-playground-express)
++ [Piano frutal](https://learn.adafruit.com/circuitpython-fruitbox-sequencer-musically-delicious-step-pattern-generator)
++ [Piano con limones](https://learn.adafruit.com/circuit-playground-express-piano-in-the-key-of-lime)
++ [Piano touch](https://learn.adafruit.com/touch-tone-for-circuit-playground-express)
 
 ## Sesión 02 Prototipado
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHDsutNMfXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
