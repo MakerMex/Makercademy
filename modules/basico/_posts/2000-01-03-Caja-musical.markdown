@@ -42,8 +42,8 @@ Constuir su primer prototipo utilizando materiales reciclados.
 + Cada estudiante realizará una breve demostración de su prototipo y realizará una breve explicación de como funcionará.
 
 ### Referencias
-[Blues Playground](https://learn.adafruit.com/blues-playground)
-[Drum glove](https://learn.adafruit.com/midi-drum-glove)
++ [Blues Playground](https://learn.adafruit.com/blues-playground)
++ [Drum glove](https://learn.adafruit.com/midi-drum-glove)
 
 ## Sesión 03 Programación 
 Nuestro primer prototipo nos ayudo a tener una idea clara de como será nuestro proyecto, llego el momento de darle vida integrando la programación a nuestro prototipo.
@@ -61,8 +61,8 @@ Realizar la programación necesaria para que nuestro prototipo funcione.
 + Realizar la programación en makecode para el prototipo.
 
 ### Referencias
-[Caja musical](https://learn.adafruit.com/music-box-with-circuit-python)
-[Pizza box dj controller](https://learn.adafruit.com/circuit-playground-pizza-box-dj-controller)
++ [Caja musical](https://learn.adafruit.com/music-box-with-circuit-python)
++ [Pizza box dj controller](https://learn.adafruit.com/circuit-playground-pizza-box-dj-controller)
 
 ## Sesión 04 Manufactura
 Una vez integrada la programación a nuestro prototipo, pudimos observar los puntos de mejora del proyecto, esta sesión nos permitirá desarrollar el prototipo final del proyecto, !manos a la obra¡.
@@ -81,9 +81,9 @@ Realizar el prototipo final del proyecto.
 + Realizar el prototipo final del proyecto.
 
 ### Referencias 
-[MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
-[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
-[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
++ [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
++ [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
++ [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
 
 ### Sesión 05 Pruebas de funcionamiento
 Nuestro prototipo final esta casi terminado, ya realizamos las mejoras pertinentes, integramos la programación al proyecto, llego el momento de realizar las pruebas de funcionamiento, para esto haremos una demostración ante la clase para escuchar su retroalimentación y así poder continuar con el proceso de prototipado.
@@ -95,13 +95,13 @@ Nuestro prototipo final esta casi terminado, ya realizamos las mejoras pertinent
 ## Sesión 06 Documentación
 El proceso de fabricación de la caja o instrumento musical complementa un sin fín de aprendizajes tanto de manufactura, programación, manejo de componentes y notas musicales,  es por esto que la parte de documentación es muy importante, las siguientes preguntas son solo algunas de las cuales nos ayudarán a poner en claro todo lo desarrollado.
 
-¿Qué hicimos?
-¿Cómo lo hicimos?
-¿Qué ploblemática resolvimos?
-¿Cúal fue la mejora que implementamos?
-¿Qué aprendizaje tuve al desarrollar el proyecto?
-¿Qué podría mejorar de mi proyecto?
-Con esto tendremos mas información de nuestro proyecto y el proceso de documentación será mas sencillo.
++ ¿Qué hicimos?
++ ¿Cómo lo hicimos?
++ ¿Qué ploblemática resolvimos?
++ ¿Cúal fue la mejora que implementamos?
++ ¿Qué aprendizaje tuve al desarrollar el proyecto?
++ ¿Qué podría mejorar de mi proyecto?
++ Con esto tendremos mas información de nuestro proyecto y el proceso de documentación será mas sencillo.
 
 ### Actividades
 + Cada estudiante realizará el guión que utilizará para su video.
