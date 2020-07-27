@@ -3,7 +3,7 @@ title: Introducción
 ---
 
 # Introducción al Kit MakerCademy 101
-Bienvenido al sistema educativo Makercademy, en este tu primer año, nos enfocaremos a conocer ampliamente la tarjeta [circuit playground express](http://learn.makercademy.com/modules/referencias/acp/) y pensar como un programador utilizando [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/).
+Bienvenido al sistema educativo Makercademy, en este tu primer año, nos enfocaremos a conocer ampliamente la tarjeta [circuit playground](http://learn.makercademy.com/modules/referencias/acp/) y pensar como un programador utilizando [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/).
 # Conozcamos tu kit de robótica MakerCademy 101
 
 ### Circuit playground Bluefruit
