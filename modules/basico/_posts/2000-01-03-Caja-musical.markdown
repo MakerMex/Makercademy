@@ -36,7 +36,8 @@ Constuir su primer prototipo utilizando materiales reciclados.
 ### Recomendaciones 
 + Utiliza tus bocetos como guia para acercar tu prototipo a la idea inicial.
 + Enfócate en obtener un prototipo funcional, pues este será tu entregable de la sesión.
-+
+
+
 ### Actividades
 + Con base en su propuesta realizarán su primer prototipo funcional.
 + Cada estudiante realizará una breve demostración de su prototipo y realizará una breve explicación de como funcionará.
@@ -46,6 +47,7 @@ Constuir su primer prototipo utilizando materiales reciclados.
 + [Drum glove](https://learn.adafruit.com/midi-drum-glove)
 
 ## Sesión 03 Programación 
+![Box]({{site.baseurl}}/img/box03.png)
 Nuestro primer prototipo nos ayudo a tener una idea clara de como será nuestro proyecto, llego el momento de darle vida integrando la programación a nuestro prototipo.
 ### Objetivo 
 Realizar la programación necesaria para que nuestro prototipo funcione.
@@ -61,10 +63,12 @@ Realizar la programación necesaria para que nuestro prototipo funcione.
 + Realizar la programación en makecode para el prototipo.
 
 ### Referencias
++ [Entradas capacitivas](http://makermex.com/blog/makercademy-4/post/aprendiendo-a-usar-las-entradas-touch-de-mi-circuit-playground-537)
 + [Caja musical](https://learn.adafruit.com/music-box-with-circuit-python)
 + [Pizza box dj controller](https://learn.adafruit.com/circuit-playground-pizza-box-dj-controller)
 
 ## Sesión 04 Manufactura
+![Box]({{site.baseurl}}/img/box.jpg)
 Una vez integrada la programación a nuestro prototipo, pudimos observar los puntos de mejora del proyecto, esta sesión nos permitirá desarrollar el prototipo final del proyecto, !manos a la obra¡.
 
 ### Objetivo 
@@ -86,6 +90,7 @@ Realizar el prototipo final del proyecto.
 + [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
 
 ### Sesión 05 Pruebas de funcionamiento
+
 Nuestro prototipo final esta casi terminado, ya realizamos las mejoras pertinentes, integramos la programación al proyecto, llego el momento de realizar las pruebas de funcionamiento, para esto haremos una demostración ante la clase para escuchar su retroalimentación y así poder continuar con el proceso de prototipado.
 
 ### Actividades 
