@@ -2,8 +2,8 @@
 title: Mood lamp
 ---
 
-# Lámpara de escritorio con circuit playground express
-Las lámparas de escritorio siempre han estado presentes en nuestro hogar, durante este proyecto realizaremos nuestra propia lámpara, donde realizaremos el control de los neopixels integrados en nuestra [circuit playground express](http://learn.makercademy.com/modules/referencias/cpx/). <br>
+# Lámpara de escritorio con circuit playground
+Las lámparas de escritorio siempre han estado presentes en nuestro hogar, durante este proyecto realizaremos nuestra propia lámpara, donde realizaremos el control de los neopixels integrados en nuestra [circuit playground ](http://learn.makercademy.com/modules/referencias/cpx/). <br>
 El siguiente video ejemplifica una idea aplicada a este proyecto.
 
 
@@ -24,6 +24,9 @@ Seleccionar el tipo de lampara a desarrollar.
 + Seleccionar el tipo de lámpara a desarrollar y realizará su propuesta.
 + Realizar los bocetos de su lámpara.
 
+
+
+
 ### Referencias
 "Make: Getting started with adafruit circuit payground Express.
 Mike Barela
@@ -34,6 +37,8 @@ using buttons (pag. 50).  "
 [Mood lamp hecha con vaso de cafe](https://learn.adafruit.com/adventure-time-coffee-cup-lamp)
 
 ## Sesión 02 Prototipado
+
+![Bluefruit]({{site.baseurl}}/img/bluefruit.gif)
 
 Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas y los sistemas de activación que podemos utilizar, con base en nuestra investigación llego el momento de realizar nuestro primer prototipo, ¡manos a la obra!.
 ### Objetivo
@@ -50,9 +55,9 @@ Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas 
 + Realizar un intercambio de ideas con sus compañeros para mejorar su primer prototipo.
 
 ### Referencias 
-[Lego head lamp](https://www.thingiverse.com/thing:3875453)
-[Lampara de cristales](https://learn.adafruit.com/paper-craft-crystal-gem-lantern)
-[Rocket lamp](https://learn.adafruit.com/cpx-rocket-lamp)
++ [Lego head lamp](https://www.thingiverse.com/thing:3875453)
++ [Lampara de cristales](https://learn.adafruit.com/paper-craft-crystal-gem-lantern)
++ [Rocket lamp](https://learn.adafruit.com/cpx-rocket-lamp)
 ## Sesión 03 Programación 
 En la sesión pasada realizamos nuestro primer prototipo del proyecto, nos enfocamos completamente en convertir nuestros materiales en algo tangible, llego el momento de darle vida a nuestro proyecto realizando la programación de la tarjeta circuit playground express.
 ### Objetivo 
