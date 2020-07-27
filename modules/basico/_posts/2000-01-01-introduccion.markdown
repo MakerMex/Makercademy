@@ -6,8 +6,8 @@ title: Introducción
 Bienvenido al sistema educativo Makercademy, en este tu primer año, nos enfocaremos a conocer ampliamente la tarjeta [circuit playground express](http://learn.makercademy.com/modules/referencias/acp/) y pensar como un programador utilizando [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/).
 # Conozcamos tu kit de robótica MakerCademy 101
 
-### Circuit playground express
-![MakerCademy](https://media.giphy.com/media/dYnpeJQXUUct2U8BAh/giphy.gif?access_token=be806810-44bc-49aa-b092-942d156ae3e0)
+### Circuit playground Bluefruit
+![Bluefruit]({{site.baseurl}}/img/bluefruit.gif)
 
 Esta tarjeta reprogramable será el cerebro de todos nuestros proyectos, tiene incluidos varios sensores que nos ayudarán a crear divertidos proyectos donde interactuemos con nuestro entorno.
 ¿quieres saber más sobre tu nueva tarjeta? <br>
