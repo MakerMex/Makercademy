@@ -11,10 +11,10 @@ La solución debe de tener programación en la tarjeta Circuit Playground, abarc
 
 Si necesitas inspiración, puedes visitar los siguientes sitios donde hay miles de proyectos que puedes desarrollar.
 
-[Adafruit](https://www.adafruit.com/)
-[Instructables](https://www.instructables.com/)
-[MakerCademy](http://learn.makercademy.com/modules/referencias/Proyectos/)
-[MakerMex](http://makermex.com/blog)
++ [Adafruit](https://www.adafruit.com/)
++ [Instructables](https://www.instructables.com/)
++ [MakerCademy](http://learn.makercademy.com/modules/referencias/Proyectos/)
++ [MakerMex](http://makermex.com/blog)
 
 
 
