@@ -102,6 +102,34 @@ Implementar manufactura digital para mejorar su prototipo inicial.
 
 ### Sesión 05 Pruebas y funcionamiento 
  
+Nuestro prototipo final esta casi terminado, ya realizamos las mejoras pertinentes, integramos la programación al proyecto, llego el momento de realizar las pruebas de funcionamiento, para esto haremos una demostración ante la clase para escuchar su retroalimentación y así poder continuar con el proceso de prototipado.
+
+Actividades
++ Cada alumno realizará una breve presentación de su proyecto, explicará el funcionamiento y lógica de programación que desarrollo.
++ La clase realizará una retroalimentación a cada uno de sus compañeros, brindando consejos y/o sugerencias de mejora.
+### Sesión 06 Documentación
+El proceso de fabricación de nuestro wearable complementa un sin fín de aprendizajes tanto de manufactura y programación, es por esto que la parte de documentación es muy importante, las siguientes preguntas son solo algunas de las cuales nos ayudarán a poner en claro todo lo desarrollado.
+
++ ¿Qué hicimos?
++ ¿Cómo lo hicimos?
++ ¿Qué ploblemática resolvimos?
++ ¿Cúal fue la mejora que implementamos?
++ ¿Qué aprendizaje tuve al desarrollar el proyecto?
++ ¿Qué podría mejorar de mi proyecto?
+Con esto tendremos mas información de nuestro proyecto y el proceso de documentación será mas sencillo.
+### Actividades
++ Cada estudiante realizará el guión que utilizará para su video.
++ Cada estudiante deberá realizar un video de máximo 5 minutos y mínimo 3 explicando todo lo relacionado al proyecto, desde los bocetos realizados, programación y demostración del prototipo final funcionando.
++ El video deberá estar disponible en YouTube.
+### Recomendaciones
++ Busca ayuda de tus compañeros o un tripode para obtener mejores resultados en tus grabaciones.
++ Si en tu escuela tienes clase de medios trata de enlazar tu sección de documentación con esa materia.
++ Se tu mismo, tu eres el experto en tu proyecto, su funcionamiento y como esta construido, ¡comparte con el mundo todo ese aprendizaje!.
+### Referencias
+[Documentación](http://learn.makercademy.com/modules/intro/documentacion/)
+
+### ¡Comparte tus proyectos en redes sociales con el hashtag #MakerCademy y serán compartidos en nuestras redes sociales!
+
 
 
 
