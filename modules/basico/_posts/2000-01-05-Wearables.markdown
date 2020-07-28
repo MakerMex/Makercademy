@@ -54,6 +54,58 @@ Fabricar el prototipo del proyecto.
 ### Sesión 03 Programación 
 
 ![wearable]({{site.baseurl}}/img/wearable03.jpg)
+Nuestro prototipo esta listo, para hacerlo completamente funcional es necesario integrarlo con la programación, usemos makecode para darle vida a nuestro proyecto.
+
+### objetivo
+Realizar la programación de nuestro wearable para obtener nuestro prototipo funcional.
+
+### Recomendaciones 
++ Investiga un poco sobre MakeCode, siempre puedes mejorar tus proyectos teniendo ideas frescas de programación.
++ Realiza varias iteraciones hasta lograr tu objetivo, no te desanimes si tu proyecto no funciona a la primera iteración.
++ Comparte tips de programación con tus compañeros, aprender en equipo lo hará más sencillo.
+
+### Actividades
++ Realiza el algoritmo de programación en MakeCode para tu proyecto.
++ Revisa el funcionamiento del algoritmo en tu proyecto.
+
+### Referencias 
+[Programación de un guante musical en MakeCode](https://learn.adafruit.com/cpx-musical-glove/make-makecode-music)
+[Programación de un guante de caricatura](https://learn.adafruit.com/cartoon-network-makecode-garnets-gauntlets-from-steven-universe/code-the-star-in-makecode)
+[Luz trasera pokemon go](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go)
+ 
+ ### Sesión 04 Manufactura
+ 
+![wearable]({{site.baseurl}}/img/wearable04.mp4)
+
+Nuestro primer prototipo ya trabaja de la mano con la programación realizada en la sesión anterior, llego la hora de actualizar esas piezas provisionales, por partes desarrolladas con ayuda de manufactura digital, puedes utilizar impresión 3D, corte láser y/o corte con router CNC para obtener tus piezas finales, manos a la obra.
+
+### Objetivo 
+Implementar manufactura digital para mejorar su prototipo inicial.
+
+### Recomendaciones 
++ Siempre que utilices maquinaria, sigue las recomendaciones del encargado del aula.
++ Utiliza el equipo de seguridad adecuado.
++ Toma en cuenta el tiempo de fabricación de tus piezas para realizar una entrega a tiempo.
+
+### Actividades
++ Modela en 2D o 3D piezas de tu proyecto.
++ Utiliza manufactura digital para fabrucar tus piezas.
++ Realiza mejoras en tu proyecto para realizar una entrega de mayor calidad.
+
+### Referencias 
+
+[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
+[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
+[Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
+[Temperatura de impresión](http://makermex.com/blog/manufactura-digital-1/post/que-temperaturas-debo-manejar-cuando-voy-a-imprimir-en-3d-524)
+[Materiales para impresión 3D](http://makermex.com/blog/manufactura-digital-1/post/materiales-de-impresion-3d-516)
+
+### Sesión 05 Pruebas y funcionamiento 
+ 
+
+
+
+
 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
