@@ -3,6 +3,7 @@ title: Juego de puntería
 ---
 
 # Juego de puntería con Circuit Playground Express
+*Nota: Este proyecto se puede realizar unicamente teniendo la tarjeta circuit playground express debido utiliza el sensor infrarrojo.
 
 ![Punteria]({{site.baseurl}}/img/punteria.gif)
 
