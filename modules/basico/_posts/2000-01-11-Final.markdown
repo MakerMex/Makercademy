@@ -1,0 +1,21 @@
+---
+title: Proyecto final
+---
+
+# Proyecto final
+
+Con base en las clases pasadas ahora te toca a ti encontrar un proyecto.
+Recuerda que debe de resolver una problemática básica de la cual los alumnos puedan identificar una solución o mejora. 
+
+La solución debe de tener programación en la tarjeta Circuit Playground, abarcando las seis sesiones (analisis, prototipado, programación, manufactura, pruebas y funcionamiento y documentación).
+
+Si necesitas inspiración, puedes visitar los siguientes sitios donde hay miles de proyectos que puedes desarrollar.
+
+[Adafruit](https://www.adafruit.com/)
+[Instructables](https://www.instructables.com/)
+[MakerCademy](http://learn.makercademy.com/modules/referencias/Proyectos/)
+[MakerMex](http://makermex.com/blog)
+
+
+
+<a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
