@@ -8,7 +8,7 @@ En este proyecto aprenderemos a utilizar el sensor de temperatura incluido en tu
 
 Tu tarjeta cuenta con un [termistor](https://es.wikipedia.org/wiki/Termistor) el cual es una resistencia que varia en función de la temperatura, con esto puedes sensar la temperatura y lo puedes encontrar en tu tarjeta marcado con un pequeño termómetro.
 
-![termometro]({{site.baseurl}}/img/termometro.jpg)
+![termometro]({{site.baseurl}}/img/termometro01.jpg)
 
 # Sesión 01 Análisis 
 Los termómetros son dispositivos muy comunes, están presentes en refrigeradores, vehículos y hogares, los utilizamos para conocer la temperatura de las cosas o del ambiente, en este proyecto realizaremos un termómetro visual con el cual podremos identificar la temperatura de nuestro ambiente.
