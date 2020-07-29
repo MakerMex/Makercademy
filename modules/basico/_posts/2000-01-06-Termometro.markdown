@@ -70,8 +70,8 @@ Realizar el algoritmo de programación de su proyecto.
 + Realiza el algoritmo de programación para tu proyecto.
 + Verificar tu algoritmo en la simulación de MakeCode.
 ### Referencias 
-[MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
-[MakeCode en YouTube](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
++ [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
++ [MakeCode en YouTube](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
@@ -94,12 +94,12 @@ Utilizar manufactura digital para mejorar el prototipo y obtener el entregable d
 + Refabricar secciones del prototipo.
 
 ### Referencias
-[Proceso iterativo en proyectos](https://proyectosagiles.org/desarrollo-iterativo-incremental/#:~:text=Las%20iteraciones%20se%20pueden%20entender,del%20proyecto%20de%20forma%20incremental.)
-[Diseño y fabricación 2D](http://learn.makercademy.com/modules/intro/diseno2d/)
-[Diseño y fabricción 3D](http://learn.makercademy.com/modules/intro/diseno3d/)
-[CNC](http://learn.makercademy.com/modules/referencias/cnc/)
-[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
-[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
++ [Proceso iterativo en proyectos](https://proyectosagiles.org/desarrollo-iterativo-incremental/#:~:text=Las%20iteraciones%20se%20pueden%20entender,del%20proyecto%20de%20forma%20incremental.)
++ [Diseño y fabricación 2D](http://learn.makercademy.com/modules/intro/diseno2d/)
++ [Diseño y fabricción 3D](http://learn.makercademy.com/modules/intro/diseno3d/)
++ [CNC](http://learn.makercademy.com/modules/referencias/cnc/)
++ [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
++ [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
 
 # Sesión 05 pruebas yfuncionamiento 
 
