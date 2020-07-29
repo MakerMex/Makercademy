@@ -1,5 +1,5 @@
 ---
-title: Proyecto 002 Termómetro
+title: Acelerometro
 ---
 
 # Termómetro con Circuit Playground Express
