@@ -1,5 +1,16 @@
 ---
-title: Juego de mesa
+title: Juego con circuit
 ---
 
-# Juego de mesa con circuit playground
+# Juego con circuit playground
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QQuFplHcqkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Sesión 01 Análisis
+Existen diversos tipos, juegos de mesa, videojuegos, etc, todos estos estan presentes en reuniones con amigos, encuentros familiares y días de descanso, con ellos pasamos horas de diversión y competencia, en el desarrollo de este proyecto fabricaremos nuestro propio juego.
+
+### Objetivo 
+Realizar la propuesta del proyecto.
+
+### Recomendaciones 
+Realiza una investigación sobre distintos juegos de mesa, videojuegos 
