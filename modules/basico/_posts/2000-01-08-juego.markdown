@@ -25,4 +25,16 @@ Realizar la propuesta del juego a fabricar.
 ### Referencias
 + [Juego operando con circuit playground](http://makermex.com/blog/makercademy-4/post/como-usar-las-entradas-capacitivas-de-mi-circuit-playground-543)
 + [bop it](https://www.digikey.com/en/maker/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344)
-+ [
++ [Game clock](https://learn.adafruit.com/game-clock-with-circuit-playground-makecode)
++ [MakeCode Arcade](https://arcade.makecode.com/)
++ [Custom Controllers for MakeCode Arcade](https://learn.adafruit.com/custom-controllers-for-makecode-arcade)
++ [Neopix arcade](https://learn.adafruit.com/search?q=arcade&categoriesLvl0=Circuit%2520Playground)
+
+# Sesión 02 Prototipado
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKN5uNaSBmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Elegir el juego a desarrolar en nuestro proyecto fue una difícil decisión pues tenemos un sin fin de posiblilidades para crear, llego el momento de materializar esa idea de juego en un primer prototipo.
+### Objetivo 
+Materializar nuestra propuesta en un primer prototipo.
+
+
