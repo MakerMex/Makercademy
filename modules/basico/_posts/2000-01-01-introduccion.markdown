@@ -11,7 +11,7 @@ Bienvenido al sistema educativo Makercademy, en este tu primer año, nos enfocar
 
 Esta tarjeta reprogramable será el cerebro de todos nuestros proyectos, tiene incluidos varios sensores que nos ayudarán a crear divertidos proyectos donde interactuemos con nuestro entorno.
 ¿quieres saber más sobre tu nueva tarjeta? <br>
-<a class="btn btn-primary" target="_blank" href="http://learn.makercademy.com/modules/referencias/acp/"> ¡Aprendamos más!</a>
+<a class="btn btn-primary" target="_blank" href="http://learn.makercademy.com/modules/referencias/cpx/"> ¡Aprendamos más!</a>
 ### Neopixeles Adafruit Flora
 ![flora]({{site.baseurl}}/img/flora.jpg)
 Al igual que los neopixels integrados en nuestra circuit playground express, estos neopixels pueden iluminarse de cualquier color al ser [LEDS RGB](https://www.youtube.com/watch?v=yUPLoJvvw5U&t=23s)
