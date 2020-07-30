@@ -10,9 +10,19 @@ title: Juego con circuit
 Existen diversos tipos, juegos de mesa, videojuegos, etc, todos estos estan presentes en reuniones con amigos, encuentros familiares y días de descanso, con ellos pasamos horas de diversión y competencia, en el desarrollo de este proyecto fabricaremos nuestro propio juego.
 
 ### Objetivo 
-Realizar la propuesta del proyecto.
+Realizar la propuesta del juego a fabricar.
 
 ### Recomendaciones 
 + Realiza una investigación sobre distintos juegos de mesa, videojuegos o juegos interactivos, que puedas utilizar como base para realizar tu propuesta de proyecto.
 + Comparte con tus compañeros tus juegos favoritos para aportar mas ideas de proyectos.
-+ 
++ Toma en cuenta los instructivos de los juegos como referencia.
+
+### Actividades
++ Realiza la propuesta de juego para tu proyecto.
++ De ser necesario realiza los bocetos de tableros o piezas para el juego.
++ Desarrolla el instructivo donde indiques cantidad de jugadores, reglas, etc.
+
+### Referencias
++ [Juego operando con circuit playground](http://makermex.com/blog/makercademy-4/post/como-usar-las-entradas-capacitivas-de-mi-circuit-playground-543)
++ [bop it](https://www.digikey.com/en/maker/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344)
++ [
