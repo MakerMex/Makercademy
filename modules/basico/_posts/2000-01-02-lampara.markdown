@@ -48,7 +48,7 @@ Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas 
 + Recuerda que esta será tu primera iteración y tendrás otra sesión para mejorarlo, enfocate en que funcione.
 + Utiliza materiales de facil acceso, cartón, envases vacios, etc.
 + Desarrolla un proyecto alcanzable.
-+ Aun no es necesario realizar la programación de la tarjeta circuit playground express.
++ Aun no es necesario realizar la programación de la tarjeta circuit playground.
 
 ### Actividades
 + Con base en su propuesta, cada estudiante realizará el primer prototipo de su proyecto.
@@ -62,7 +62,7 @@ Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas 
 ## Sesión 03 Programación 
 ![lampara]({{site.baseurl}}/img/lamprogramacion.jpg)
 
-En la sesión pasada realizamos nuestro primer prototipo del proyecto, nos enfocamos completamente en convertir nuestros materiales en algo tangible, llego el momento de darle vida a nuestro proyecto realizando la programación de la tarjeta circuit playground express.
+En la sesión pasada realizamos nuestro primer prototipo del proyecto, nos enfocamos completamente en convertir nuestros materiales en algo tangible, llego el momento de darle vida a nuestro proyecto realizando la programación de la tarjeta circuit playground.
 ### Objetivo 
 Realizar la programación para que los neopixels de la tarjeta se activen y desactiven mediante sonido.
 
@@ -75,9 +75,9 @@ Realizar la programación para que los neopixels de la tarjeta se activen y desa
 + Realiza el algoritmo de programación en MakeCode para activar y desactivar los neopixels.
 
 ### Referencias.
-+ [Descripción de la tarjeta CPX](http://learn.makercademy.com/modules/referencias/cpx/)
-+ [Primeros pasos con circuit playground express](https://learn.adafruit.com/circuit-playground-lesson-number-0)
-+ [Uso de neopixels de la CPX con MakeCode](http://www.makermex.com/blog/educacion-maker-3/post/aprende-a-usar-los-neopixels-de-la-circuit-playground-530)
++ [Descripción de la tarjeta](http://learn.makercademy.com/modules/referencias/cpx/)
++ [Primeros pasos con circuit playground](https://learn.adafruit.com/circuit-playground-lesson-number-0)
++ [Uso de neopixels con MakeCode](http://www.makermex.com/blog/educacion-maker-3/post/aprende-a-usar-los-neopixels-de-la-circuit-playground-530)
 
 ## Sesión 04 Manufactura
 ![lampara]({{site.baseurl}}/img/lampara04.jpg)
