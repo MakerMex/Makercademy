@@ -37,4 +37,9 @@ Elegir el juego a desarrolar en nuestro proyecto fue una difícil decisión pues
 ### Objetivo 
 Materializar nuestra propuesta en un primer prototipo.
 
-
+### Recomendaciones 
++ 
+### Actividades
++ Fabrica el tablero si es que tu juego requiere uno.
++ Realiza el primer prototipo utilizando tu tarjeta circuit playground.
++ 
