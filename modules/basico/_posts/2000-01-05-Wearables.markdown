@@ -72,12 +72,9 @@ Realizar la programación de nuestro wearable para obtener nuestro prototipo fun
 + [Programación de un guante musical en MakeCode](https://learn.adafruit.com/cpx-musical-glove/make-makecode-music)
 + [Programación de un guante de caricatura](https://learn.adafruit.com/cartoon-network-makecode-garnets-gauntlets-from-steven-universe/code-the-star-in-makecode)
 + [Luz trasera pokemon go](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go)
- 
- 
- ### Sesión 04 Manufactura
- 
-![wearable]({{site.baseurl}}/img/wearable04.mp4)
 
+### Sesión 04 Manufactura
+![wearable]({{site.baseurl}}/img/wearable04.mp4)
 Nuestro primer prototipo ya trabaja de la mano con la programación realizada en la sesión anterior, llego la hora de actualizar esas piezas provisionales, por partes desarrolladas con ayuda de manufactura digital, puedes utilizar impresión 3D, corte láser y/o corte con router CNC para obtener tus piezas finales, manos a la obra.
 
 ### Objetivo 
