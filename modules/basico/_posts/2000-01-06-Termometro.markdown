@@ -27,17 +27,17 @@ Fabricar un termómetro visual con la tarjeta circuit playground.
 + Realiza una breve presentación de tu propuesta explicando el funcionamiento esperado de tu proyecto.
 
 ### Referencias 
-[Como usar el sensor de temperatura](http://makermex.com/blog/makercademy-4/post/utiliza-el-sensor-de-temperatura-de-la-circuit-playground-540)
-[Temperatura con circuit playground](https://learn.adafruit.com/how-cold-is-it/overview)
-[Sensor de temperatura externo a la circuit playground](https://learn.adafruit.com/make-it-hot-or-cold/make-it-hot)
-[Bluefruit app](https://learn.adafruit.com/bluefruit-playground-app)
++ [Como usar el sensor de temperatura](http://makermex.com/blog/makercademy-4/post/utiliza-el-sensor-de-temperatura-de-la-circuit-playground-540)
++ [Temperatura con circuit playground](https://learn.adafruit.com/how-cold-is-it/overview)
++ [Sensor de temperatura externo a la circuit playground](https://learn.adafruit.com/make-it-hot-or-cold/make-it-hot)
++ [Bluefruit app](https://learn.adafruit.com/bluefruit-playground-app)
 
 # Sesión 02 Prototipado
 Nuestra actividad grupal nos ayudo a realizar la propuesta del termómetro, llego el momento de materializar esta propuesta en nuestro primer prototipo, asi que ¡manos a la obra!.
 ### Objetivo
 Materializar su propuesta en un primer prototipo.
 ### Recomendaciones
-+ Enfócate en obtener obtener tu prototipo fue es el entregable de esta sesión.
++ Enfócate en obtener tu prototipo pues es el entregable de esta sesión.
 + Revisa proyectos similares y toma como base algo ya hecho, eso te ayudará a ganar tiempo.
 + Trabaja en equipo, apoyarse ayudará a que terminen sus prototipos a tiempo.
 
@@ -47,10 +47,10 @@ Materializar su propuesta en un primer prototipo.
 + Realiza una demostración del avance de tu proyecto a tus compañeros.
 
 ### Referencias 
-[Prototipado](http://learn.makercademy.com/modules/intro/soluciondeproblemas/)
-[Fabricación con cartón](http://learn.makercademy.com/modules/referencias/Carton/)
-[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
-[Modelado 3D](http://learn.makercademy.com/modules/referencias/modelado3d/)
++ [Prototipado](http://learn.makercademy.com/modules/intro/soluciondeproblemas/)
++ [Fabricación con cartón](http://learn.makercademy.com/modules/referencias/Carton/)
++ [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
++ [Modelado 3D](http://learn.makercademy.com/modules/referencias/modelado3d/)
 
 # Sesión 03 Programación 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2AevPdyY5tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
