@@ -46,10 +46,10 @@ Materializar nuestra propuesta en un primer prototipo.
 + Fabrica el tablero si es que tu juego requiere uno.
 + Realiza el primer prototipo utilizando tu tarjeta circuit playground.
 ### Referencias
-[spinner game](https://learn.adafruit.com/circuit-playground-makecode-spinner-game)
-[Papa caliente](https://learn.adafruit.com/circuit-playground-hot-potato/overview)
-[Arcade game](https://learn.adafruit.com/neopix-arcade-kit-1d-arcade-game-system-circuit-playground)
-[Cómo hacer un tablero para juegos](https://youtu.be/RoDXL-ZIRxM)
++ [spinner game](https://learn.adafruit.com/circuit-playground-makecode-spinner-game)
++ [Papa caliente](https://learn.adafruit.com/circuit-playground-hot-potato/overview)
++ [Arcade game](https://learn.adafruit.com/neopix-arcade-kit-1d-arcade-game-system-circuit-playground)
++ [Cómo hacer un tablero para juegos](https://youtu.be/RoDXL-ZIRxM)
 
 
 # Sesión 03 Programación 
