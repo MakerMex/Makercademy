@@ -38,8 +38,54 @@ Elegir el juego a desarrolar en nuestro proyecto fue una difícil decisión pues
 Materializar nuestra propuesta en un primer prototipo.
 
 ### Recomendaciones 
-+ 
++ Tener tu instructivo ya terminado te ayudará a fabricar tu prototipo con base en el.
++ Comienza por lo más complicado para tener un avance más amplio.
++ Si tu juego es interactivo toma en cuenta el montaje de tu tarjeta y el portapilas.
+
 ### Actividades
 + Fabrica el tablero si es que tu juego requiere uno.
 + Realiza el primer prototipo utilizando tu tarjeta circuit playground.
+### Referencias
+[spinner game](https://learn.adafruit.com/circuit-playground-makecode-spinner-game)
+[Papa caliente](https://learn.adafruit.com/circuit-playground-hot-potato/overview)
+[Arcade game](https://learn.adafruit.com/neopix-arcade-kit-1d-arcade-game-system-circuit-playground)
+[Cómo hacer un tablero para juegos](https://youtu.be/RoDXL-ZIRxM)
+
+
+# Sesión 03 Programación 
+![Juego]({{site.baseurl}}/img/juego03.jpg)
+La programación es parte muy importante para nuestro prototipo, una vez finalizada la sesión tendremos un prototipo funcional del cual podremos revisar que funciona bien y que hay que mejorar.
+
+### Objetivo 
+Realizar el algoritmo de programación para nuestro juego.
+
+### Recomendaciones 
++ Investiga sobre los sensores que utilizarás para conocer como funciona, unidades de medida y demás.
++ Antes de cargar tu programa a tu tarjeta analiza la simulación en MakeCode.
++ Arcade MakeCode es muy similar pero investiga más al respecto.
+
+### Actividades
++ Realiza el algoritmo en MakeCode o Arcade MakeCode para obtener un prototipo funcional.
++ Simula el funcionamiento de tu proyecto.
++ Integra la programación a tu prototipo.
+
+### Referencias 
+
+[Cursos Arcade MakeCode](https://arcade.makecode.com/courses)
+[Documentación arcade makecode](https://arcade.makecode.com/docs)
+[Tutorial makecode arcade](https://youtu.be/Rr-wV2J-i6U)
+[Ejemplos de juegos](https://arcade.makecode.com/blocks-games)
+[Primeros pasos Arcade MakeCode](https://arcade.makecode.com/tutorials)
+
+# Sesión 04 Manufactura
+Integrar la programación a nuestro prototipo fue algo muy divertido, vimos por primera vez el funcionamiento real de nuestro proyecto, esto nos dejo un gran aprendizaje con respecto al funcionamiento, puntos de mejora y piezas que tal vez sea necesario cambiar.
+En esta sesión realizaremos la segunda iteración de nuestro proyecto, realizaremos mejoras para obtener el prototipo final de nuestro proyecto.
+### Objetivo
+Mejorar el prototipo inicial para obtener el entregable final.
+
+### Recomendaciones 
+
++ Las iteraciones nos ayudan a mejorar, si es necesario puedes realizar varias de ellas.
++ La retroalimentación de tus compañeros ayudará a encontrar puntos de mejora.
++ Si algo funciona bien no es necesario mejorarlo.
 + 
