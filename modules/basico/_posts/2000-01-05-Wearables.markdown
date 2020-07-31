@@ -14,10 +14,10 @@ En este proyecto realizaremos nuestro propio wearable utilizando los distintos s
 #### Objetivo 
 Seleccionar el dispositivo wearable a desarrollar.
 #### Recomendaciones
-+ Antes de seleccionar el dispositivo a realizar realiza una investigación de las distintas opciones que hay.
++ Antes de seleccionar el dispositivo a realizar, investiga sobre las distintas opciones de wearables que hay.
 + Toma en cuenta los sensores incluidos en tu tarjeta para tener un proyecto alcanzable.
 ### Actividades 
-+ Realizar de manera grupal o por equipos una lluvia de ideas en la cual hablen  
++ Realizar de manera grupal o por equipos una lluvia de ideas en la cual hablen sobre los wearables que descubrieron en su investigación.
 + Cada estudiante realizará los bocetos de su proyecto.
 + Con base en sus bocetos, cada estudiante realizará una propuesta de su proyecto.
 
