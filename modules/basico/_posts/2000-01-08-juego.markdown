@@ -95,3 +95,37 @@ Mejorar el prototipo inicial para obtener el entregable final.
 + Realiza mejoras al proyecto para obtener el prototipo final.
 
 ### Referencias 
+
+
++ [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
++ [Diseño y corte con router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
++ [Modelado 3D](http://learn.makercademy.com/modules/referencias/modelado3d/)
+
+
+# Sesión 05 Pruebas de funcionamiento
+Ahora que ya tenemos nuestro proyecto rediseñado con piezas realizadas con ayuda de manufactura digital, llego el momento de ponerlo a prueba frente a nuestros compañeros de clase y escuchar sus opiniones, esto nos ayudará a encontrar fortalezas y debilidades en nuestro proyecto.
+
+## Actividades
+- Cada alumno realizará una breve exposición donde nos hablará acerca de su proyecto, como funciona, que materiales utilizó, que problemas resolvió, etc.
+- La clase realizará una retroalimentación sobre el proyecto presentado para ayudar al creador a tener un punto de vista distinto al suyo y así poder realizar mejoras a su proyecto.
+- En equipos jueguen con los proyectos de sus compañeros.
+
+## Recomendaciones 
+- Recuerden que las opiniones deben aportar al creador a mejorar su proyecto.
+- Comparte tu proyecto con confianza, tú eres quien mejor conoce sobre el y podrás responder a las dudas de tus compañeros.
+
+# Sesión 06 Documentación 
+Llego el momento de documentar información sobre nuestro proyecto, ¿qué hicimos?, ¿cómo lo hicimos?, ¿qué retos enfrentamos? son algunas de las preguntas que nos ayudaran a obtener la información que debos documentar, pero ¿como lo tengo que documentar?
+
+## Actividades 
+- Cada estudiante deberá realizar un video de maximo 5 minutos donde explique el funcionamientode su proyecto, el conocimiento nuevo que adquirió y consejos de fabricación que pudieran ser útiles a sus compañeros.
+- El video deberá estar disponible en la plataforma de YouTube.
+
+## Recomendaciones 
+- Pueden juntarse en equipos para apoyarse en la grabación y conseguir mejores resultados.
+- Recuerden revisar la sección de [Documentación](http://learn.makercademy.com/modules/intro/documentacion/)
+En la cual encontrarás consejos sobre como realizar tu video.
+## Referencias
+
+- [Cómo subir un video a YouTube.](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=es-419)
+
