@@ -84,7 +84,7 @@ Fabricar el prototipo final del proyecto.
 # Sesión 05 Pruebas y funcionamiento
 Despues de varias iteraciones el prototipo final esta terminado, el siguiente paso es realizar las pruebas pertinentes para probar los distintos escenarios de funcionamiento y verificar que nuestro proyecto cumple con el objetivo y si fuera necesario realizar los ajustes finales.
 ### Actividades
-+ Los estudiantes realizaran las pruebas de funcionamiento de su proyecto, en comjunto con sus compañeros.
++ Los estudiantes realizaran las pruebas de funcionamiento de su proyecto, en conjunto con sus compañeros.
 # Sesión 06 Documentación 
 Una vez presentado nuestro proyecto ante la clase, llego el momento de recopilar todo lo aprendido en el desarrollo de este proyecto, para esto realizaremos la documentación del proyecto.
 
