@@ -71,11 +71,11 @@ Realizar el algoritmo de programación para nuestro juego.
 
 ### Referencias 
 
-[Cursos Arcade MakeCode](https://arcade.makecode.com/courses)
-[Documentación arcade makecode](https://arcade.makecode.com/docs)
-[Tutorial makecode arcade](https://youtu.be/Rr-wV2J-i6U)
-[Ejemplos de juegos](https://arcade.makecode.com/blocks-games)
-[Primeros pasos Arcade MakeCode](https://arcade.makecode.com/tutorials)
++ [Cursos Arcade MakeCode](https://arcade.makecode.com/courses)
++ [Documentación arcade makecode](https://arcade.makecode.com/docs)
++ [Tutorial makecode arcade](https://youtu.be/Rr-wV2J-i6U)
++ [Ejemplos de juegos](https://arcade.makecode.com/blocks-games)
++ [Primeros pasos Arcade MakeCode](https://arcade.makecode.com/tutorials)
 
 # Sesión 04 Manufactura
 Integrar la programación a nuestro prototipo fue algo muy divertido, vimos por primera vez el funcionamiento real de nuestro proyecto, esto nos dejo un gran aprendizaje con respecto al funcionamiento, puntos de mejora y piezas que tal vez sea necesario cambiar.
