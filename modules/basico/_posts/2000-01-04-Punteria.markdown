@@ -3,14 +3,15 @@ title: Juego de puntería
 ---
 
 # Juego de puntería con Circuit Playground Express
-*Nota: Este proyecto se puede realizar unicamente teniendo la tarjeta circuit playground express debido utiliza el sensor infrarrojo.
+*Nota: Este proyecto se puede realizar unicamente si tu kit cuenta con la tarjeta circuit playground express debido a que utiliza el sensor infrarrojo en su desarrollo.
+
 
 ![Punteria]({{site.baseurl}}/img/punteria.gif)
 
 Ya sea en alguna feria o en casa, los juegos de puntería son muy originales y divertidos, en este proyecto utilizaremos el sensor infrarrojo incluido en nuestra circuit playground express para realizar uno de estos juegos.
 
 # Sesión 01 Analisis 
-![Infrarrojo]({{site.baseurl}}/img/infrarrojo.gif)
+![Infrarrojo]({{site.baseurl}}/img/infrarrojo.jpg)
 Debido a que cada tarjeta tiene un emisor y receptor infrarrojo, este proyecto se desarrolla en parejas para que sea mas interactivo y divertido.
 Los controladores [infrarrojos](https://es.wikipedia.org/wiki/Radiaci%C3%B3n_infrarroja) más comunes los encontramos en el control remoto de la T.V. 
 ### Objetivo 
@@ -26,8 +27,8 @@ Cada pareja escogerá el juego de puntería a elaborar.
 + Cada equipo realizará los bocetos de su proyecto.
 + Los equipos presentarán su propuesta de proyecto ante la clase.
 ### Referencias 
-[Tiro al blanco infrarrojo](https://learn.adafruit.com/circuit-playground-express-laser-tag/build-a-cpx-laser-tag-game)
-[Zombie game](https://learn.adafruit.com/circuit-playground-express-ir-zombie-game/zombie-game-time-2)
++ [Tiro al blanco infrarrojo](https://learn.adafruit.com/circuit-playground-express-laser-tag/build-a-cpx-laser-tag-game)
++ [Zombie game](https://learn.adafruit.com/circuit-playground-express-ir-zombie-game/zombie-game-time-2)
 
 # Sesión 02 Prototipado
 
@@ -45,8 +46,8 @@ Desarrollar el primer prototipo del proyecto.
 + Realizar una presentación de su prototipo ante la clase para obtener retroalimentación de sus compañeros.
 
 ### Referencias 
-[Proyectos con cartón](http://learn.makercademy.com/modules/referencias/Carton/)
-[Tiro al blanco casero](https://www.youtube.com/watch?v=VRX80h2Ia-k)
++ [Proyectos con cartón](http://learn.makercademy.com/modules/referencias/Carton/)
++ [Tiro al blanco casero](https://www.youtube.com/watch?v=VRX80h2Ia-k)
 
 # Sesión 03 Programación 
 ![Infrarrojo]({{site.baseurl}}/img/infrared.gif)
@@ -64,8 +65,8 @@ Realizar la programación del juego de puntería para integrarlo al prototipo.
 + Programa el receptor infrarrojo.
 
 ### Referencias
-[Emisor y receptor infrarrojo con circuitpython](https://learn.adafruit.com/infrared-ir-receive-transmit-circuit-playground-express-circuit-python)
-[Infrarrojo Video tutorial](https://youtu.be/9pOXGTUTq-k)
++ [Emisor y receptor infrarrojo con circuitpython](https://learn.adafruit.com/infrared-ir-receive-transmit-circuit-playground-express-circuit-python)
++ [Infrarrojo Video tutorial](https://youtu.be/9pOXGTUTq-k)
 
 # Sesión 04 Manufactura
 En la sesión pasada integramos la programación a nuestro primer prototipo, llego la hora de implementar los cambios y mejoras que descubrimos en la segunda sesión y fabricar la versión final de nuestro prototipo.
@@ -77,8 +78,8 @@ Fabricar el prototipo final del proyecto.
 + Recuerda utilizar el equipo de seguridad pertinente al utilizar maquinaria o herramienta.
 + Tal vez sea necesario fabricar varios prototipos antes de tener la iteración final.
 ### Referencias 
-[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/) <br/>
-[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
++ [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/) <br/>
++ [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
 
 # Sesión 05 Pruebas y funcionamiento
 Despues de varias iteraciones el prototipo final esta terminado, el siguiente paso es realizar las pruebas pertinentes para probar los distintos escenarios de funcionamiento y verificar que nuestro proyecto cumple con el objetivo y si fuera necesario realizar los ajustes finales.
