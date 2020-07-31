@@ -69,9 +69,10 @@ Realizar la programación de nuestro wearable para obtener nuestro prototipo fun
 + Revisa el funcionamiento del algoritmo en tu proyecto.
 
 ### Referencias 
-[Programación de un guante musical en MakeCode](https://learn.adafruit.com/cpx-musical-glove/make-makecode-music)
-[Programación de un guante de caricatura](https://learn.adafruit.com/cartoon-network-makecode-garnets-gauntlets-from-steven-universe/code-the-star-in-makecode)
-[Luz trasera pokemon go](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go)
++ [Programación de un guante musical en MakeCode](https://learn.adafruit.com/cpx-musical-glove/make-makecode-music)
++ [Programación de un guante de caricatura](https://learn.adafruit.com/cartoon-network-makecode-garnets-gauntlets-from-steven-universe/code-the-star-in-makecode)
++ [Luz trasera pokemon go](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go)
+ 
  
  ### Sesión 04 Manufactura
  
@@ -89,16 +90,16 @@ Implementar manufactura digital para mejorar su prototipo inicial.
 
 ### Actividades
 + Modela en 2D o 3D piezas de tu proyecto.
-+ Utiliza manufactura digital para fabrucar tus piezas.
++ Utiliza manufactura digital para fabricar tus piezas.
 + Realiza mejoras en tu proyecto para realizar una entrega de mayor calidad.
 
 ### Referencias 
 
-[Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
-[Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
-[Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
-[Temperatura de impresión](http://makermex.com/blog/manufactura-digital-1/post/que-temperaturas-debo-manejar-cuando-voy-a-imprimir-en-3d-524)
-[Materiales para impresión 3D](http://makermex.com/blog/manufactura-digital-1/post/materiales-de-impresion-3d-516)
++ [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
++ [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
++ [Router CNC](http://learn.makercademy.com/modules/referencias/cnc/)
++ [Temperatura de impresión](http://makermex.com/blog/manufactura-digital-1/post/que-temperaturas-debo-manejar-cuando-voy-a-imprimir-en-3d-524)
++ [Materiales para impresión 3D](http://makermex.com/blog/manufactura-digital-1/post/materiales-de-impresion-3d-516)
 
 ### Sesión 05 Pruebas y funcionamiento 
  
