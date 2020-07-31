@@ -101,7 +101,7 @@ Utilizar manufactura digital para mejorar el prototipo y obtener el entregable d
 + [Corte láser](http://learn.makercademy.com/modules/referencias/cortadoralaser/)
 + [Impresión 3D](http://learn.makercademy.com/modules/referencias/Impresion3D/)
 
-# Sesión 05 pruebas yfuncionamiento 
+# Sesión 05 pruebas y funcionamiento 
 
 Llego el momento de poner a prueba nuestro proyecto que desarrollamos durante las sesiones pasadas, antes de hacer la presentación formal de tu proyecto, interactua con tus compañeros para obtener retroalimentación de tu proyecto.
 
