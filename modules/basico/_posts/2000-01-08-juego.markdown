@@ -88,4 +88,10 @@ Mejorar el prototipo inicial para obtener el entregable final.
 + Las iteraciones nos ayudan a mejorar, si es necesario puedes realizar varias de ellas.
 + La retroalimentación de tus compañeros ayudará a encontrar puntos de mejora.
 + Si algo funciona bien no es necesario mejorarlo.
-+ 
++ No olvides el equipo de seguridad para el uso de maquinaria.
+
+### Actividades 
++ Realiza una breve presentación del proyecto a tus compañeros para obtener retroalimentación.
++ Realiza mejoras al proyecto para obtener el prototipo final.
+
+### Referencias 
