@@ -5,6 +5,7 @@ title: Circuit Playground Bluefruit
 
 
 Circuit Playground Bluefruit es la tercera tarjeta en la serie circuit playground, esta tarjeta es la evolución de la circuit playground express mejorada y ahora incluye bluetooth para conexión inalámbrica.
+![Bluefruit]({{site.baseurl}}/img/bluefruit.gif)
 La tarjeta circuit playground bluefruit incluye:
 + 1 x Procesador nRF52840.
 + 10 x Neopixels
@@ -18,25 +19,28 @@ La tarjeta circuit playground bluefruit incluye:
 + 1 x Conector para portapilas.
 ![BFParts]({{site.baseurl}}/img/bluefruit_parts.JPG)
 
+Al igual que su antecesora, la tarjeta bluefruit se puede programar por bloques mediante [ Maker MakeCode](https://maker.makecode.com/)
+![Maker.MakeCode]({{site.baseurl}}/img/makermakecode.jpg)
 
-es el siguiente paso hacia una introducción perfecta a la electrónica y la programación.
-Comienza tú viaje con la programación basada en bloques de [Microsoft MakeCode o Javascript](https://makecode.adafruit.com/). Luego, puede usar la misma placa para probar [CircuitPython](https://circuitpython.org/), con el intérprete de Python ejecutándose directamente en el Express. A medida que avanza, puede avanzar hacia el uso de [Arduino IDE](https://www.arduino.cc/en/Main/Software), que tiene soporte completo de todo el hardware hasta el nivel bajo, para que pueda realizar proyectos potentes. Incluso puede usar [code.org CS Discoveries](https://code.org/) para aprender todo sobre la codificación directamente en su ¡navegador!
+Maker.makecode es identico al Makecode habitual, unicamente permite la implementación de más tarjetas de desarrollo y no unicamente la circuit playground express,
+además, una de las mejoras es que al realizar una conexión en alguna I/O, en la simuación aparece como se realizaría la conexión externa por ejemplo un LED en un protoboard.
 
-![CPE]({{site.baseurl}}/img/CPE.gif)
+![BFSimulacion]({{site.baseurl}}/img/bluefruitsim.JPG)
 
-### Conociendo mi Circuit Playground Express
-¿Qué es y qué puedo hacer con mi Circuit Playground Express?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4lGRgO40UhM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+De las mejoras más importantes en la tarjeta es el bluetooth, mediante esta conexión inalámbrica puedes enlazar tus proyectos a tu celular mediante la [app de bluefruit](https://learn.adafruit.com/bluefruit-playground-app), desde esta aplicación puedes controlar:
++ Control del color o animación de los neopixels.
++ Observar las lecturas del sensor de luz.
++ Revisar el estado de los botones.
++ Convertir la tarjeta en un instrumento musical.
++ Observar las lecturas del sensor de temperatura.
++ Observar la orientación de la tarjeta basada en las lecturas del acelerometro.
 
-Si quieres seguir conociendo e identificando las partes de tu Circuit Playground Express revisa el siguiente video que tenemos para ti.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wEpr75JhGFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Si deseas más información referente a tu tarjeta visita:
++ [Introducción a la tarjeta circuit playground bluefruit](https://learn.adafruit.com/adafruit-circuit-playground-bluefruit)
++ [Información sobre la app](https://learn.adafruit.com/bluefruit-playground-app)
++ [Web bluetooth con la tarjeta bluefruit](https://learn.adafruit.com/bluefruit-dashboard-web-bluetooth-chrome)
 
-Ve la siguiente [guía detallada](https://learn.adafruit.com/adafruit-circuit-playground-express) y da un recorrido por la Circuit Playground Express, verifica detalles sobre cómo comenzar a usar MakeCode, CircuitPython, code.org CS Discoveries o Arduino!   
 
-### Programa de diferentes formas
-A continuación te presentamos 4 tutoriales donde podrás ver cómo puedes programar con diversas plataformas de programación, con ejemplos simples que podrás poner en práctica. 
-* [Uso de neopixeles y entradas capacitivas](http://makermex.com/blog/makercademy-4/post/aprende-a-utilizar-neopixels-y-entradas-capacitivas-544)
-* [Primeros pasos con Circuit Playground Express](https://www.instructables.com/id/KIt-Arte-Y-Ciencia-Primeros-Pasos/)
-* [Programando con Circuit Python](https://www.youtube.com/watch?v=tnrZxJpQUMQ)
-* [Haz un acelerómetro](https://www.youtube.com/watch?v=jAi7ukX2NWE&start_radio=1&list=RDQMZqfZPTyP9sg)
+
+
 
