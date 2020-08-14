@@ -20,12 +20,14 @@ elegir. Ya sea video, fotos, documentos. De la manera en como ellos puedan
 entenderlo facilmente.
 
 ### Ejemplos
-El siguiente blog ejemplifica un proceso de documentación con la siguiente estructura:
+El siguiente [blog](http://makermex.com/blog/makercademy-4/post/como-usar-las-entradas-capacitivas-de-mi-circuit-playground-543)  ejemplifica un proceso de documentación con la siguiente estructura:
 + Comienza explicando el componente en el que se enfoca (Sensor, actuador, etc).
 + Muestras los materiales necesarios para el desarrollo fisico del proyecto.
 + Explica el algoritmo de programación utilizado para hacer funcionar su proyecto.
 + Muestra el proceso de armado del proyecto con imagenes claras y una breve descripción de cada paso.
 + Ejemplifica con un video corto el funcionamiento del proyecto.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QQuFplHcqkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Estos son los pasos básicos en el desarrollo de un blog de documentación, este material es indispensable para que el profesor pueda medir si se cumplieron con los objetivos de aprendizaje marcados al inicio del proyecto. 
 
