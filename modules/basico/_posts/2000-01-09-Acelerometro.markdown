@@ -1,10 +1,13 @@
 ---
-title: Acelerometro
+title: Disfraz interactivo
 ---
 
-# Termómetro con Circuit Playground Express
+# Disfraz interactivo con Circuit Playground
 
-Esta lección introduce al alumno a utilizar el método de solución de problemas en donde el proceso tiene diferentes etapas, recordando, que son definir, preparar, iterar y reflexionar. Esta lección es acerca de la conceptos de física como la temperatura y el calor. Realiza preguntas como: ¿qué es calor? ¿cómo se mide el calor? ¿en qué unidades se mide? ¿cuántas unidades hay? ¿se puede representar de otra manera? ¿cómo sería el termómetro ideal para ti? ¿has pensado en alguien que tenga dificultades con esta variable? Es importante hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores.
+
+
+
+Esta lección introduce ales alumno a utilizar el método de solución de problemas en donde el proceso tiene diferentes etapas, recordando, que son definir, preparar, iterar y reflexionar. Esta lección  acerca de la conceptos de física como la temperatura y el calor. Realiza preguntas como: ¿qué es calor? ¿cómo se mide el calor? ¿en qué unidades se mide? ¿cuántas unidades hay? ¿se puede representar de otra manera? ¿cómo sería el termómetro ideal para ti? ¿has pensado en alguien que tenga dificultades con esta variable? Es importante hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores.
 
 
 ## Propósito
