@@ -4,9 +4,27 @@ title: Disfraz interactivo
 
 # Disfraz interactivo con Circuit Playground
 
-Un [disfraz](https://es.wikipedia.org/wiki/Disfraz) es cualquier tipo de vestimenta utilizada con el propósito de distraer o llamar la atención con fines artísticos. puedes disfrazarte para representar un personaje real o ficticio en un evento o circunstancia especial tal como un carnaval, una fiesta de disfraceso una obra teatral.
-En este proyecto 
+Un [disfraz](https://es.wikipedia.org/wiki/Disfraz) es cualquier tipo de vestimenta utilizada con el propósito de distraer o llamar la atención con fines artísticos. puedes disfrazarte para representar un personaje real o ficticio en un evento o circunstancia especial tal como un carnaval, una fiesta de disfraces o una obra teatral.
+En este proyecto desarrollaremos un disfraz interactivo, para esto, nuestra tarjeta tiene que ser parte del disfraz y reaccionar al realizar algun toque, movimiento o sonidos muy fuertes. 
 
+### Sesión 01 Análisis
+
+Antes que nada tenemos que decidir la temática o festividad para darle sentido a nuestros disfraces, para esto, realizaremos alguna dinamica donde todos podamos dar ideas, proponer temas o fechas importantes para disfrazarnos, algunos ejemplos serian halloween, dia de muertos, festividades patrias, navidad, entre otros.
+
+### Objetivo
++ Seleccionar la temática de los disfraces.
+
+### Recomendaciones 
++ Investiga sobre fechas o festividades importantes que puedas proponer para la elección del tema de los disfraces.
++ Pueden organizar una fiesta de disfraces donde inviten a los compañeros de otros grupos a participar.
++ Los disfraces no son solo de halloween pueden escoger temáticas espaciales, de ciudades específicas, temporadas del año o festividades de otro pais.
+
+### Actividades
++ Realicen una lluvia de ideas grupal donde brinden opciones para el tema de los disfraces.
++ Para una elección justa, realicen una votación.
++ Organicen una fiesta, desfile o demostración donde puedan mostrar a la comunidad estudiantil sus disfraces.
+
+### Sesión 02 prototipado 
 
 
 
