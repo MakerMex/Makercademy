@@ -4,10 +4,10 @@ title: Disfraz interactivo
 
 # Disfraz interactivo con Circuit Playground
 
+Un [disfraz](https://es.wikipedia.org/wiki/Disfraz) es cualquier tipo de vestimenta utilizada con el propósito de distraer o llamar la atención con fines artísticos. puedes disfrazarte para representar un personaje real o ficticio en un evento o circunstancia especial tal como un carnaval, una fiesta de disfraceso una obra teatral.
+En este proyecto 
 
 
-
-Esta lección introduce ales alumno a utilizar el método de solución de problemas en donde el proceso tiene diferentes etapas, recordando, que son definir, preparar, iterar y reflexionar. Esta lección  acerca de la conceptos de física como la temperatura y el calor. Realiza preguntas como: ¿qué es calor? ¿cómo se mide el calor? ¿en qué unidades se mide? ¿cuántas unidades hay? ¿se puede representar de otra manera? ¿cómo sería el termómetro ideal para ti? ¿has pensado en alguien que tenga dificultades con esta variable? Es importante hacer una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores.
 
 
 ## Propósito
