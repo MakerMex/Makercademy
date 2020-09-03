@@ -53,23 +53,25 @@ Fabricar el prototipo del proyecto.
 
 ### Sesión 03 Programación 
 
-![wearable]({{site.baseurl}}/img/wearable03.jpg)
-Nuestro prototipo esta listo, para hacerlo completamente funcional es necesario integrarlo con la programación, usemos makecode para darle vida a nuestro proyecto.
+![wearable]({{site.baseurl}}/img/acelerometropython.JPG)
+Nuestro prototipo esta listo, para hacerlo completamente funcional es necesario integrarlo con la programación, usemos circuitpython para darle vida a nuestro proyecto.
 
 ### objetivo
 Realizar la programación de nuestro wearable para obtener nuestro prototipo funcional.
 
 ### Recomendaciones 
-+ Investiga un poco sobre MakeCode, siempre puedes mejorar tus proyectos teniendo ideas frescas de programación.
++ Investiga un poco sobre circuitpython, siempre puedes mejorar tus proyectos teniendo ideas frescas de programación.
 + Realiza varias iteraciones hasta lograr tu objetivo, no te desanimes si tu proyecto no funciona a la primera iteración.
 + Comparte tips de programación con tus compañeros, aprender en equipo lo hará más sencillo.
 
 ### Actividades
-+ Realiza el algoritmo de programación en MakeCode para tu proyecto.
++ Realiza el algoritmo de programación en Circuitpython para tu proyecto.
 + Revisa el funcionamiento del algoritmo en tu proyecto.
 
 ### Referencias 
-+ [Programación de un guante musical en MakeCode](https://learn.adafruit.com/cpx-musical-glove/make-makecode-music)
++ [Uso del acelerometro con circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/aceleracion)
++ [Uso del agitado de la tarjeta con circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/agitado)
++ [Programación de un guante musical](https://learn.adafruit.com/cpx-musical-glove/make-makecode-music)
 + [Programación de un guante de caricatura](https://learn.adafruit.com/cartoon-network-makecode-garnets-gauntlets-from-steven-universe/code-the-star-in-makecode)
 + [Luz trasera pokemon go](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go)
 
