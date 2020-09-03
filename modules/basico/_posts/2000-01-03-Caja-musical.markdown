@@ -47,23 +47,25 @@ Constuir su primer prototipo utilizando materiales reciclados.
 + [Drum glove](https://learn.adafruit.com/midi-drum-glove)
 
 ## Sesión 03 Programación 
-![Box]({{site.baseurl}}/img/box03.png)
+![Box]({{site.baseurl}}/img/tonopython.JPG)
 Nuestro primer prototipo nos ayudo a tener una idea clara de como será nuestro proyecto, llego el momento de darle vida integrando la programación a nuestro prototipo.
 ### Objetivo 
 Realizar la programación necesaria para que nuestro prototipo funcione.
 
 ### Recomendaciones 
-+ visita la sección de [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/) para apreder más sobre programación por bloques.
-+ TOdo lo relacionado con sonidos lo encontrarás dentro de la sección de music en makecode.
++ visita la sección de [Python](http://learn.makercademy.com/modules/referencias/Makecode/) para apreder más sobre programación mediante circuitpython.
++ Todo lo relacionado con sonidos lo encontrarás dentro de la sección de tocar un tono en la guia de [circuitpython sin complicaciones](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/tocar-un-tono).
 + Si tienes alguna duda compartela con nosotros en el [foro](http://makermex.com/forum/makercademy-124)
 
 ### Actividades
-+ Identificar las notas dentro de MakeCode.
++ Identificar las notas en circuitpython.
 + Seleccionar el metodo de accionamiento del prototipo.
-+ Realizar la programación en makecode para el prototipo.
++ Realizar la programación en circuitpython para el prototipo.
 
 ### Referencias
-+ [Entradas capacitivas](http://makermex.com/blog/makercademy-4/post/aprendiendo-a-usar-las-entradas-touch-de-mi-circuit-playground-537)
++ [Tocar un tono con circuit python](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/tocar-un-tono)
++ [Comenzar y detener un tono con circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/comenzar-y-detener-un-tono)
++ [Tocar un archivo con circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/tocar-un-archivo)
 + [Caja musical](https://learn.adafruit.com/music-box-with-circuit-python)
 + [Pizza box dj controller](https://learn.adafruit.com/circuit-playground-pizza-box-dj-controller)
 
