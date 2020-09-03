@@ -53,25 +53,29 @@ Materializar su propuesta en un primer prototipo.
 + [Modelado 3D](http://learn.makercademy.com/modules/referencias/modelado3d/)
 
 # Sesión 03 Programación 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2AevPdyY5tY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![termometro]({{site.baseurl}}/img/temperaturapython.png)
 
 para que nuestro primer prototipo funcione, es necesario complementarlo con el algoritmo de programación, en esta sesión nos enfocaremos a realizarlo y darle vida a nuestro prototipo.
 
 ### Objetivo 
-Realizar el algoritmo de programación de su proyecto.
+Realizar el algoritmo de programación de su proyecto en circuitpython.
 
 ### Recomendaciones 
 
 + Investiga cuales son los rangos de temperatura que tu tarjeta puede detectar.
 + Crea intervalos para que sea mas fácil visualizar la temperatura actual.
 + Puedes utilizar alertas auditivas si la temperatura excede el rango programado.
++ puedes revisar los datos enviados mediante la consola serial de MU.
 
 ### Actividades 
 + Realiza el algoritmo de programación para tu proyecto.
-+ Verificar tu algoritmo en la simulación de MakeCode.
++ Verificar tu algoritmo en la graficadora de MU.
 ### Referencias 
-+ [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/)
-+ [MakeCode en YouTube](https://www.youtube.com/channel/UCye7YlvFUUQ1dSy0WZZ1T_Q)
++ [Circuitpython](http://learn.makercademy.com/modules/referencias/Python/)
++ [Uso del sensor de temperatura en circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/temperatura)
++ [Uso de botones en circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/botones)
++ [Uso de entradas capacitivas en circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/toque-capacitivo)
+
 
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
