@@ -40,120 +40,23 @@ En la sesión pasada decidimos el tema de nuestros disfraces, llego la hora de p
 + Selecciona el metodo de activación para tu disfraz, puede ser algun sensor de tu tarjeta, una entrada capacitiva, o un ciclo repetitivo.
 + Utiliza materiales de facil acceso que tengas en tu casa.
 + La imaginación y creatividad son una pieza clave para obtener un buen disfraz.
-+ 
-+ 
++ Puedes utilizar algun sensor para tu disfraz, por ejemplo, el acelerometro y si tu tarjeta tiene cierta inclinación se active.
++ Un ciclo repetitivo es un ciclo infinito con cierta duración y acciones establecidas.
+
 ### Actividades 
 + Realiza el prototipo de tu disfraz utilizando materiales que tengas en tu casa.
++ Realiza la programación de tu disfraz.
+### Referencias 
+[Cuerno de Unicornio capacitivo](https://learn.adafruit.com/capacitive-touch-unicorn-horn)
+[Disfraz con neopixels](https://learn.adafruit.com/Disco-Band-Camp-Jacket)
 
+### Sesión 03 presentación 
 
-## Propósito
-Los alumnos aplicarán los conocimientos para proponer o diseñar una solución o mejora que ayuda a resolver un problema establecido. El proyecto busca que los alumnos sean retados en proponer una solución para representar físicamente la temperatura que ayude a solucionar un problema que se establezca, activar un sistema de enfriamiento por ejemplo o un sistema de riego para las plantas. Aquí es donde los alumnos tienen la libertad de encontrar un problema y proponer una solución
+En este proyecto realizaremos una presentación como parte de la documentación, de manera individual cada participante mostrará su disfraz a la clase/comunidad donde nos hablará del por que eligió su disfraz, que materiales usó, como integraste tu tarjeta al disfraz y la programación aplicada.
 
-
-## Objetivos
-Los alumnos serán capaces de: 
-- Aplicar la metodología de solución de problemas. 
-- Identificar variables que afectan un problema. 
-- Proponer diseños de solución de acuerdo con el objetivo y limitaciones del problema.
-
-
-
-## Introducción
-
-Pregunta: Cuestiona a los alumnos acerca de la variable física de Temperatura, ¿Qué es calor? ¿Cómo se mide el calor? ¿En qué unidades se mide? ¿Existe el frío? ¿Cuántas unidades hay? ¿Se puede representar de otra manera? ¿Cómo sería el termómetro ideal para ti? ¿Has pensado en alguien que tenga dificultades con esta variable? ¿En dónde se necesita tener un control de esta variable? En estos casos, ¿Qué tan crítico es controlar la variable?
-
-**Actividad por grupos:** Indica a los alumnos que trabajarán en equipos de 2 o 3 personas. 
-Por equipos realizar una lluvia de ideas en donde los alumnos plasmen lo discutido en las preguntas anteriores y nuevas situaciones que los alumnos se den cuenta.
-
-**Objetivo de la discusión:** Es conocer más acerca de la variable temperatura, medidas, unidades, instrumentos que se utilizan.
-
-**Actividad:** El día de hoy vamos a analizar un tema muy interesante que es la temperatura, todos conocemos algo de esta variable y gracias a esto escuchamos frases como “uff qué calor” o “que frío hace” y conocemos instrumentos de medición que se utilizan, termómetros de todo tipo, de mercurio, industriales, electrónicos, de colores, por lo que nos ayuda a conocer cómo y en dónde se requiere tener el control de esta variable. Un claro ejemplo son los aparatos de cocina que te indican a qué temperatura se encuentra y muchos de ellos, te ayudan a mantener siempre esa temperatura.
-
-**Pregunta:** Realiza las siguientes preguntas a los alumnos en dónde se puede controlar la temperatura para obtener su mayor beneficio: 
-- Casa 
-- Carro 
-- Escuela 
-- Otro
-
-
-### ¡Ahora te toca a ti!
-Como parte de la metodología de MakerCademy, los alumnos tendrán un tiempo de análisis de problemas para proponer una solución o diseño. 
-**Actividad:** Indica a los alumnos qué preguntas investigan para conocer un poco más acerca de la variable temperatura, y saber si el trasfondo del funcionamiento o diseño afecta o no en la solución o diseño que ellos van a proponer.
-
-La temperatura se mide en  _____________________. 
-
-¿Con qué colores se representa la temperatura?
-
-## Análisis y definición de la solución
-**Actividad:** Indica a los alumnos que tienen que definir una idea de solución utilizando las siguientes preguntas como base.
-- ¿Qué solución propones   
-- ¿Por qué esta solución?   
-
-De las siguientes áreas qué mejorarías:      
-- Tecnología      
-- Funcionalidad      
-- Diseño
-
-
-## Sesión Técnica
-**Actividad:** Utilizando las bases y conocimientos en representación de algoritmos (diagrama de bloques o flujo), indica a los alumnos que tienen que representar el funcionamiento de un termómetro en un diagrama de flujo. Utilizando las siguientes preguntas ejemplo:
-
-Si es la temperatura ____ pasa esto _____________________ 
-
-Si es la temperatura ____ pasa esto _____________________ 
-
-Si es la temperatura ____ pasa esto _____________________ 
-
-Si es la temperatura ____ pasa esto _____________________ 
-
-Si es la temperatura ____ pasa esto _____________________
-
-Necesitas aprender a programar en bloques, revisa lo siguiente:
-
-- Tutorial de bloque de Temperatura de MakeCODE. 
- -Tutorial de condicionales 2 de MakeCODE. 
-- Tutorial de Pines I/O Circuit Playground Express de MakeCODE.
-
-**Actividad:** vamos a realizar un prototipo de un termómetro que resuelva los problemas que encontraste. El prototipo se realizará con materiales que se tengan cerca, pero de igual manera se pueden utilizar diferentes, por ejemplo impresión 3D o corte láser.
-
-Cuestiona a los alumnos acerca de modelado 3D e impresión 3D, ¿Qué es el modelado 3D? ¿Qué es impresión 3D? ¿Cómo están relacionados? ¿Cómo se fabrica en una impresora 3D? ¿Qué materiales se utilizan? 
-
-Los tutoriales a revisar son:
-- Tutorial de Cartón Básico. 
-- Tutorial de Tutorial MakerSCAD 101. 
-- Tutorial de CURA y Parámetros.
-
-Lo que los alumnos te deberán de entregar en esta sesión es el diseño del modelo 3D en MakerSCAD y un archivo .STL
-
-**Actividad** Esta clase está destinada a que los alumnos se dediquen a fabricar o finalizar de fabricar su idea inicial. Tienen como objetivo entregar un primer prototipo al finalizar la clase por lo que deben aprovechar el mayor tiempo posible.
-
-**Indicaciones:** Los alumnos fabricarán o terminarán de fabricar su idea teniendo en cuenta el objetivo de su proyecto al finalizar la clase los alumnos responderán preguntas que los ayudarán a obtener retroalimentación.
-
-Los alumnos deberán de responder las siguientes preguntas con base en su prototipo:
-- ¿Cuáles son los puntos débiles? 
-- ¿Cómo funcionan las soluciones anteriores? 
-- ¿El prototipo cumple las expectativas? 
-- ¿Cómo se aprovecha el diseño/producto/desarrollo? 
-- ¿Mi idea soluciona el problema? ¿Si o No? ¿Por qué? 
-- ¿Qué puntos no incluiste en este primer prototipo? ¿Tu prototipo cumple con el objetivo? 
-
-**Entregable:** Al finalizar la clase tienen que entregar su primer prototipo funcional.
-
-## Conclusión
-
-Pregunta a los alumnos acerca de documentar ¿qué se necesita?¿qué tengo que documentar? Actividad por salón: Hacer una lluvia de ideas en donde los alumnos plasmen lo que comparten para que los mismos alumnos vean algún área que no notaron. 
-
-*NOTA: El punto central de la lluvia de ideas es compartir experiencias, sentimientos, tips, alguna tecnología nueva que aprendieron.*
-
-Recordatorio: Los alumnos deben entregar en un folder (como ejemplo), esto con el fin de que tu como maestro revises que se hicieron todos los paso con respecto a su conclusión final. Pueden entregar del modo en como ellos crean conveniente (folder, presentación, etc)
-No olvides que la documentación es parte esencial de la filosofía de MakerCademy
-
-## Proyectos ejemplo:
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/bm-jBX-C_Ls" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/uJ0QkP3bIfo" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/4nSiL0u01_Q" frameborder="0" allowfullscreen></iframe>
+### Recomendaciones 
++ Pueden realizar una pasarela para mostrar sus disfraces a la comunidad.
++ Para complementar pueden realizar un concurso y hacer votaciones para elegir un ganador.
++ Lo más importante es mejorar la convivencia de la comunidad y conocer a más personas de su comunidad estudiantil.
 
 <a class="btn btn-primary" target="_blank" href="http://www.makermex.com/forum/makercademy-124">¡Dinos tus dudas!</a>
