@@ -71,6 +71,8 @@ Realizar el algoritmo de programación para nuestro juego.
 
 ### Referencias 
 
++ [Uso del sensor de luz con circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/luz)
++ [Entradas capacitivas con circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/toque-capacitivo)
 + [Cursos Arcade MakeCode](https://arcade.makecode.com/courses)
 + [Documentación arcade makecode](https://arcade.makecode.com/docs)
 + [Tutorial makecode arcade](https://youtu.be/Rr-wV2J-i6U)
