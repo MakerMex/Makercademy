@@ -2,7 +2,10 @@
 title: Disfraz interactivo
 ---
 
+
 # Disfraz interactivo con Circuit Playground
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2v-N7TR1_og" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Un [disfraz](https://es.wikipedia.org/wiki/Disfraz) es cualquier tipo de vestimenta utilizada con el propósito de distraer o llamar la atención con fines artísticos. puedes disfrazarte para representar un personaje real o ficticio en un evento o circunstancia especial tal como un carnaval, una fiesta de disfraces o una obra teatral.
 En este proyecto desarrollaremos un disfraz interactivo, para esto, nuestra tarjeta tiene que ser parte del disfraz y reaccionar al realizar algun toque, movimiento o sonidos muy fuertes. 
@@ -23,9 +26,24 @@ Antes que nada tenemos que decidir la temática o festividad para darle sentido 
 + Realicen una lluvia de ideas grupal donde brinden opciones para el tema de los disfraces.
 + Para una elección justa, realicen una votación.
 + Organicen una fiesta, desfile o demostración donde puedan mostrar a la comunidad estudiantil sus disfraces.
+### Referencias
+[Daft punk](https://learn.adafruit.com/3d-printed-daft-punk-helmet)
+[Ring hair dress](https://learn.adafruit.com/neopixel-ring-hair-dress)
 
-### Sesión 02 prototipado 
 
+### Sesión 02 prototipado y programación
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/egDaxJqiv7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+En la sesión pasada decidimos el tema de nuestros disfraces, llego la hora de poner manos a la obra y comenzar a fabricar nuestro primer prototipo funcional.
+### Recomendaciones 
++ Selecciona el metodo de activación para tu disfraz, puede ser algun sensor de tu tarjeta, una entrada capacitiva, o un ciclo repetitivo.
++ Utiliza materiales de facil acceso que tengas en tu casa.
++ La imaginación y creatividad son una pieza clave para obtener un buen disfraz.
++ 
++ 
+### Actividades 
++ Realiza el prototipo de tu disfraz utilizando materiales que tengas en tu casa.
 
 
 ## Propósito
