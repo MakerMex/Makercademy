@@ -78,6 +78,11 @@ Realizar la programación para que los neopixels de la tarjeta se activen y desa
 + [Descripción de la tarjeta](http://learn.makercademy.com/modules/referencias/cpx/)
 + [Primeros pasos con circuit playground](https://learn.adafruit.com/circuit-playground-lesson-number-0)
 + [CircuitPython sin complicaciones](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/neopixeles)
++ [Uso de entradas capacitivas con Circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/toque-capacitivo)
++ [Uso de botones en circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/botones)
++ [Uso del switch deslizante en circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/interruptor-deslizante)
++ [Uso de neopixels en circuitpython](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/neopixeles)
+
 
 
 ## Sesión 04 Manufactura
