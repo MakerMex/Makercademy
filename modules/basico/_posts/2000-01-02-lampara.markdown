@@ -60,24 +60,25 @@ Hasta el momento hemos revisado el alcance del proyecto, los tipos de lámparas 
 + [Lampara de cristales](https://learn.adafruit.com/paper-craft-crystal-gem-lantern)
 + [Rocket lamp](https://learn.adafruit.com/cpx-rocket-lamp)
 ## Sesión 03 Programación 
-![lampara]({{site.baseurl}}/img/lamprogramacion.jpg)
+![lampara]({{site.baseurl}}/img/lampython.JPG)
 
 En la sesión pasada realizamos nuestro primer prototipo del proyecto, nos enfocamos completamente en convertir nuestros materiales en algo tangible, llego el momento de darle vida a nuestro proyecto realizando la programación de la tarjeta circuit playground.
 ### Objetivo 
 Realizar la programación para que los neopixels de la tarjeta se activen y desactiven mediante sonido.
 
 ### Recomendaciones 
-+ Revisa la sección de [MakeCode](http://learn.makercademy.com/modules/referencias/Makecode/) para conocer más sobre programación por bloques.
++ Revisa la sección de [Python](http://learn.makercademy.com/modules/referencias/Python/) para conocer más sobre programación.
 + Utiliza el sensor de sonido para activar y desactivar tu lámpara.
 + Si tienes alguna inquietud sobre el funcionamiento de tu tarjeta, cuéntanos en el [foro](http://makermex.com/forum/makercademy-124)
 
 ### Actividades
-+ Realiza el algoritmo de programación en MakeCode para activar y desactivar los neopixels.
++ Realiza el algoritmo de programación para activar y desactivar los neopixels.
 
 ### Referencias.
 + [Descripción de la tarjeta](http://learn.makercademy.com/modules/referencias/cpx/)
 + [Primeros pasos con circuit playground](https://learn.adafruit.com/circuit-playground-lesson-number-0)
-+ [Uso de neopixels con MakeCode](http://www.makermex.com/blog/educacion-maker-3/post/aprende-a-usar-los-neopixels-de-la-circuit-playground-530)
++ [CircuitPython sin complicaciones](https://learn.adafruit.com/circuitpython-sin-complicaciones-para-la-circuit-playground-express/neopixeles)
+
 
 ## Sesión 04 Manufactura
 ![lampara]({{site.baseurl}}/img/lampara04.jpg)
