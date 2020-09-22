@@ -3,14 +3,14 @@ layout: index
 published: true
 ---
 
-# MakerCademy <br/> Educación a prueba del futuro
+# MakerMex Academy <br/> Educación a prueba del futuro
 
 Impulsa la enseñanza a niños, adolescentes y jóvenes. Para aprender diferentes disciplinas y solucionar problemas reales de nuestro entorno utilizando tecnología y creatividad.
 
 
-# [¿Qué es MakerCademy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
+# [¿Qué es MakerMex Academy?](https://makermex.github.io/Makercademy/modules/intro/makercademy/)
 
-## MakerCademy se divide en tres ciclos:
+## MakerMex Academy se divide en tres ciclos:
 
 ### Año 1: Pensando como un programador
 
@@ -23,7 +23,7 @@ Estos proyectos se enfocan en demostrar y explorar el diseño y desarrollo de me
 Estos proyectos se enfocan en demostrar y explorar la integracion de sistemas de comunicacion entre maquinas y personas (IOT).
 
 ## Currícula
-Durante el ciclo de MakerCademy, los estudiantes desarrollaran diversas actividades con las cuales obtendrán el aprendizaje de diversas áreas como lo son:
+Durante el ciclo de MakerMex Academy, los estudiantes desarrollaran diversas actividades con las cuales obtendrán el aprendizaje de diversas áreas como lo son:
 
 | Año | Diseño | Programación | Fabricación | Comunidad |
 | :---: | :---: | :---: | :---: | :---: |
@@ -49,4 +49,4 @@ Basado en la problemativa a resolver, inicia el proceso ciclico de imaginar, cre
 
 **- Sesión de presentación y retroalimentación**
 
-Se presenta el prototipo final y los aprendisajes del proyecto al resto del grupo, se busca retroalimentación entre alumnos, ya que parte de la filosofía de MakerCademy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos eligan, ya sea video, presentación, fotos, etc.
+Se presenta el prototipo final y los aprendisajes del proyecto al resto del grupo, se busca retroalimentación entre alumnos, ya que parte de la filosofía de MakerMex Academy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos eligan, ya sea video, presentación, fotos, etc.
