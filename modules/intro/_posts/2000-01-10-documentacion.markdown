@@ -7,7 +7,7 @@ La documentación comienza desde la primera sesión, donde los estudiantes reali
 
 ### La importancia de documentar
 
-![MakerCademy]({{site.baseurl}}/img/documentación.png)
+![MakerMex Academy]({{site.baseurl}}/img/documentación.png)
 
 ### ¿Qué documentar?
 **¡TODO!** Se trata de documentar y comunicar todos los avances hechos a lo largo del proyecto.
