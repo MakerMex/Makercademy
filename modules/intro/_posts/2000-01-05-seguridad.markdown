@@ -36,7 +36,7 @@ Porta de manera adecuada el equipo de seguridad necesario para cada tipo de maqu
 - Devuelve la herramienta a su lugar establecido.
 
 
-![MakerCademy]({{site.baseurl}}/img/segu.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/segu.jpg)
 
 ***Aprende y explora***
 - ¡Todos somos makers! Así que cuando puedas comparte tus conocimientos y aprende de los demás. No olvides que todos somos pare de una comunidad en la que lo más importante es compartir el conocimiento.
@@ -44,7 +44,7 @@ Porta de manera adecuada el equipo de seguridad necesario para cada tipo de maqu
 
 ## Redundancia en procesos seguridad.
 
-![MakerCademy]({{site.baseurl}}/img/seg.jpeg)
+![MakerMex Academy]({{site.baseurl}}/img/seg.jpeg)
 
 - Nunca está de más la seguridad. De verdad, entre más cuidadoso seas, mejor. 
 - Siempre utiliza tus lentes de seguridad.
@@ -53,4 +53,4 @@ Porta de manera adecuada el equipo de seguridad necesario para cada tipo de maqu
 ## Etiquetado y visibilidad de la información
 Cada herramienta lleva una etiqueta en dónde dice el nombre de la máquina, el proceso que realiza y el equipo de seguridad necesario para utilizarla.
 
-![MakerCademy]({{site.baseurl}}/img/VISIBILIDAD.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/VISIBILIDAD.jpg)
