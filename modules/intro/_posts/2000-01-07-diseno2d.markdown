@@ -18,7 +18,7 @@ El corte láser es un proceso frecuentemente utilizado hoy en día para cortar u
 
 El rayo láser impacta la superficie del material y lo calienta con tanta fuerza que se derrite o se vaporiza por completo. Una vez que el rayo láser ha penetrado completamente el material en un punto, comienza el proceso de corte real. El sistema láser sigue la geometría seleccionada y separa el material en el proceso. Dependiendo de la aplicación, el uso de gases de proceso puede influir positivamente en los resultados.
 
-![MakerCademy]({{site.baseurl}}/img/20180516085452-b27d21da-me.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/20180516085452-b27d21da-me.jpg)
 
 ### Software de código abierto para diseño de corte láser
 
@@ -30,7 +30,7 @@ Es un editor de gráficos vectoriales libre y de código abierto. Inkscape puede
 ## Maquinado CNC
 El mecanizado es un proceso mediante el cual se fabrican mecanizado de piezas con la ayuda de computadoras que controlan las maquinas herramienta. Gracias al Control Numérico por Computadora (CNC) se ha automatizado el proceso de fabricación de las piezas ya que permite utilizar un conjunto de instrucciones para controlar el mecanizado mediante un programa contando con la mínima intervención humana.
 
-![MakerCademy]({{site.baseurl}}/img/5a72e2ef-690e-4657-ac94-b9ccc349dfa3.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/5a72e2ef-690e-4657-ac94-b9ccc349dfa3.jpg)
 
 ### Software de código abierto para diseño de maquinado CNC
 * [CARBIDE CREATE](https://carbide3d.com/downloads/)
