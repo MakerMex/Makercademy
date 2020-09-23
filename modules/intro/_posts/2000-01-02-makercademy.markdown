@@ -2,7 +2,7 @@
 # MakerMex Academy
 ---
 
-![MakerCademy]({{site.baseurl}}/img/nina.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/nina.jpg)
 
 
 ## ¿Qué es MakerMex Academy?
