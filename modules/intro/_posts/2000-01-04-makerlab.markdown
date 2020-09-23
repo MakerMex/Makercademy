@@ -10,19 +10,19 @@ Existen diversos tipos de espacios todos enfocados a procesos similares,tal es e
 
 El makerspace a veces referido como un hackerspace, se asocia a menudo con campos como la ingeniería, ciencias de la computación, y el diseño. El concepto emerge de la [“cultura maker"](https://es.wikipedia.org/wiki/Cultura_Maker), asociado con la revista ["Make"](https://makezine.com/) y las ["Makerfaire"](https://makerfaire.com/) que promueven. 
 
-![MakerCademy]({{site.baseurl}}/img/maker.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/maker.jpg)
 
 ## ¿Cómo funciona?
 
 Los Makerspace le deben mucho a la cultura maker que les inspiró, y muchos todavía son lugares principalmente para la experimentación tecnológica, desarrollo de hardware, y el prototipado de ideas. Pero inventores individuales autodirigidos y equipos creativos utilizan cada vez más estos servicios gratuitos o de pago, basados en campos distintos de la ingeniería y la tecnología.
-![MakerCademy]({{site.baseurl}}/img/makerl.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/makerl.jpg)
 
 Los Makerspace son a menudo abierto para actividades informales y no programadas; en algunos casos, una organización será la sede para clases programadas en un makerspace. Estas clases generalmente se centran en un tema especifico.
 
 ## Áreas de especialización
 Estos espacios cuentan con maquinaria de diversas áreas, como pueden ser:
 
-![MakerCademy]({{site.baseurl}}/img/areas.JPG)
+![MakerMex Academy]({{site.baseurl}}/img/areas.JPG)
 
 
 
