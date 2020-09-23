@@ -53,11 +53,11 @@ Objetivo: colaboración
 Elementos necesarios: 20 espaguetis sin cocer, un rollo de cinta adhesiva, aproximadamente un metro de cuerda y una nube de azúcar (para cada equipo). 
 Instrucciones: el objetivo de este ejercicio es ver qué equipo es el primero en construir la torre más alta (que se pueda sostener sola). Si quieres añadir más emoción, diles a los equipos que la nube debe colocarse en la parte superior de la torre. Este ejercicio de resolución de problemas en equipo ayuda a que los equipos piensen rápidamente mientras refuerzan sus lazos y sus habilidades de liderazgo.  
 
-![MakerCademy]({{site.baseurl}}/img/torres.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/torres.jpg)
  
 3. Huevo en caída libre 
 Objetivo: colaboración y toma de decisiones
 Elementos necesarios: una docena de huevos, materiales de construcción básicos (periódicos, pajitas, cinta adhesiva, envolturas de plástico, globos, gomas elásticas, palitos de helado, etc.), tela de lona o paños, y un aparcamiento u otro lugar donde no importe ensuciar un poco.
 Instrucciones: cada equipo recibirá un huevo y deberá elegir sus materiales de construcción. Da a cada equipo entre 20 y 30 minutos para construir una envoltura para el huevo utilizando los materiales de construcción que lo protegerán para que no se rompa. A continuación, tira el huevo envuelto desde un alto (una mesa alta o desde otra planta) y comprueba si el envoltorio protege al huevo de la caída. Si hay varios huevos que sobreviven, ve aumentando la altura hasta que solo quede un huevo.  
 
-![MakerCademy]({{site.baseurl}}/img/huevo.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/huevo.jpg)
