@@ -1,12 +1,12 @@
 ---
-# Makercademy
+# MakerMex Academy
 ---
 
 ![MakerCademy]({{site.baseurl}}/img/nina.jpg)
 
 
-## ¿Qué es MakerCademy?
-MakerCademy es un sistema educativo que impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
+## ¿Qué es MakerMex Academy?
+MakerMex Academy es un sistema educativo que impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
 jóvenes, para aprender diferentes habilidades y conocimientos que desarrollen su potencial explotar la tecnología en sus proyectos
 
 Es un sistema educativo MAKER/STEAM, que promueve el aprendizaje mediante el desarrollo y fabricación de prototipos bajo una metodología abierta que permite la experimentación y formación creativa del estudiante. Se busca que cada estudiante se apropie de sus proyectos fomentando la creatividad y exploración mediante la experimentación iterativa.  
@@ -21,13 +21,13 @@ Es un sistema educativo MAKER/STEAM, que promueve el aprendizaje mediante el des
 <iframe width="1004" height="753" src="https://www.youtube.com/embed/5U6xXqElj08" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![MakerCademy]({{site.baseurl}}/img/nino.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/nino.jpg)
 Estudiantes interactuando con la tarjeta de desarrollo Circuit Playground Express.
 
 
 
 ## Filosofía y metódologia
-MakerCademy esta fundamentado en siguientes metódologias:
+MakerMex Academy esta fundamentado en siguientes metódologias:
 
 ## - Aprender fabricando<br>
 ![Fabricando]({{site.baseurl}}/img/Making.jpg)
