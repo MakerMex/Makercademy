@@ -20,7 +20,7 @@ Es una herramienta profesional pero que puede ser adaptada a todo tipo de nivele
 
 ## Tecnologias de impresion 3D
 
-![MakerCademy]({{site.baseurl}}/img/20180320154612-b206cb86-me.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/20180320154612-b206cb86-me.jpg)
 
 Existen tres tecnologías principales a la hora de hablar de impresoras 3D y queremos que las conozcas así como también saber qué tipo de piezas y acabados puedes conseguir con ellas.
 
@@ -44,4 +44,4 @@ Las tecnologías de impresión 3D cuentan con infinidad de aplicaciones dependie
 
 * **Materiales flexibles:** Son muy similares al PLA , pero fabricados de TPE o TPU. La ventaja de estos filamentos es que permiten el desarrollo de objetos deformables, muy utilizado en la industria de la moda como la colección de Danit Peleg.
 
-![MakerCademy]({{site.baseurl}}/img/mate.jpg)
+![MakerMex Academy]({{site.baseurl}}/img/mate.jpg)
