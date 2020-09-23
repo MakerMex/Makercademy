@@ -20,10 +20,10 @@ Estos proyectos se enfocan en demostrar y explorar los conceptos básicos de la 
 Estos proyectos se enfocan en demostrar y explorar el diseño y desarrollo de mecanismos de movimiento.
 
 ### Año 3: Sensores y conectividad
-Estos proyectos se enfocan en demostrar y explorar la integracion de sistemas de comunicacion entre maquinas y personas (IOT).
+Estos proyectos se enfocan en demostrar y explorar la integración de sistemas de comunicación entre máquinas y personas (IOT).
 
 ## Currícula
-Durante el ciclo de MakerMex Academy, los estudiantes desarrollaran diversas actividades con las cuales obtendrán el aprendizaje de diversas áreas como lo son:
+Durante el ciclo de MakerMex Academy, los estudiantes desarrollarán diversas actividades con las cuales obtendrán el aprendizaje de diversas áreas como lo son:
 
 | Año | Diseño | Programación | Fabricación | Comunidad |
 | :---: | :---: | :---: | :---: | :---: |
@@ -41,12 +41,12 @@ Cada proyecto se desarrollo en diferentes tipos de sesiones:
 
 **- Sesión de análisis:**
 
-Aquí el alumno analiza la informacion y el problema , determina la problemática para enfocar su proyecto, y plantea su plan de trabajo.
+Aquí el alumno analiza la información y el problema , determina la problemática para enfocar su proyecto, y plantea su plan de trabajo.
 
 **- Sesiónes de prototipado**
 
-Basado en la problemativa a resolver, inicia el proceso ciclico de imaginar, crear, jugar, compartir y reflexionar la soucion.
+Basado en la problematica a resolver, inicia el proceso cíclico de imaginar, crear, jugar, compartir y reflexionar la soución.
 
 **- Sesión de presentación y retroalimentación**
 
-Se presenta el prototipo final y los aprendisajes del proyecto al resto del grupo, se busca retroalimentación entre alumnos, ya que parte de la filosofía de MakerMex Academy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos eligan, ya sea video, presentación, fotos, etc.
+Se presenta el prototipo final y los aprendisajes del proyecto al resto del grupo, se busca retroalimentación entre alumnos, ya que parte de la filosofía de MakerMex Academy es **aprender juntos.** También se entrega su documentación. Puede ser de la manera que ellos elijan, ya sea video, presentación, fotos, etc.
